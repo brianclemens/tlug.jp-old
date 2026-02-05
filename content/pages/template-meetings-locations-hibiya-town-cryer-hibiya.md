@@ -14,8 +14,8 @@ Hibiya Central Bldg B1<br />
 1-2-9 Nishishinbashi, Minato-ku, Tokyo<br />
 [ [Info and Map (English/Japanese)](http://www.towncryer.jp/TChibiya.html) ]
 [ [Menu](http://www.towncryer.jp/TCmenu.html) ]<noinclude>
-[Cryer Hibiya](Town)(/category/template/meetings/locations/hibiya/)
-[Cryer Hibiya](Hibiya:Town)(/category/template/meetings/locations/)
-[Cryer Hibiya](Locations:Hibiya:Town)(/category/template/meetings/)
-[Cryer Hibiya](Meetings:Locations:Hibiya:Town)(/category/template/)
+*Town Cryer Hibiya*
+*Hibiya:Town Cryer Hibiya*
+*Locations:Hibiya:Town Cryer Hibiya*
+*Meetings:Locations:Hibiya:Town Cryer Hibiya*
 </noinclude>

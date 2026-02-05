@@ -4,7 +4,7 @@ draft: false
 title: User - Ragga
 ---
 
-[Image:ragga.jpg](/image/ragga.jpg/)
+![ragga.jpg](/images/ragga.jpg)
 
 Terve!
 

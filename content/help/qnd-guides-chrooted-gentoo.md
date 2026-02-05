@@ -6,7 +6,7 @@ draft: false
 title: Linux Help - QND-Guides - Chrooted Gentoo
 ---
 
-Author: [Glover](Josh)(/user/jmglov/)
+Author: [Josh Glover](/user/jmglov/)
 
 1. Introduction
 This guide demonstrates how to install the [Gentoo Linux distribution](http://www.gentoo.org/) in a *chroot* jail. This can be done on a Gentoo system (obviously) or even an entirely different distribution, such as [Red Hat Linux](http://www.redhat.com/)! This guide has been tested on RHEL3, but should work on at least [Fedora Core](http://fedora.redhat.com/) releases, and probably Red Hat Linux 7.x, 8.0, and 9.0. It should also work on any modern Linux distribution, such as [Debian](http://www.us.debian.org/) (and by extension, [Ubuntu](http://www.ubuntulinux.org/) and [KNOPPIX](http://www.knopper.net/knoppix/index-en.html)), [Mandriva](http://wwwnew.mandriva.com/), [SuSE](http://www.novell.com/linux/suse/), and so on. Please add your success stories to the talk page for this article, and I will be happy to add them to this guide.
@@ -121,9 +121,9 @@ Now, populate the jail with the stage3 tarball:
  bunzip2 -c ${GENTOO_SOURCES}/stage3-${GENTOO_CPU}-*.tar.bz2 | \
   sudo tar xvp
 
-You may have noticed that there was some mention of *sudo* above; if this puzzles you, see the [Explained](#sudo)(/#sudo explained/) section below.
+You may have noticed that there was some mention of *sudo* above; if this puzzles you, see the [#sudo Explained](/#sudo explained/) section below.
 
-You now have the Gentoo core system installed. In order to use Gentoo's excellent Portage tree, you will need to extract the Portage snapshot tarball into the jail. Of course, if you are installing onto a Gentoo system, you have the option of using the host system's Portage tree, in which case you should skip this step, but pay close attention to [next step](the)(/#mounting /dev and /proc/), as you will need to bind mount the Portage tree in addition to the other mounts.
+You now have the Gentoo core system installed. In order to use Gentoo's excellent Portage tree, you will need to extract the Portage snapshot tarball into the jail. Of course, if you are installing onto a Gentoo system, you have the option of using the host system's Portage tree, in which case you should skip this step, but pay close attention to [the next step](/#mounting /dev and /proc/), as you will need to bind mount the Portage tree in addition to the other mounts.
  # Edit lines <font color="red">highlighted in red</font> to match your setup
  
  # If you want to use the host system's Portage tree, comment out the next line
@@ -224,6 +224,6 @@ Once you have your chrooted system fully installed, you will probably want to ad
 These steps will deposit you into your jail as the root user. You can now continue the normal Gentoo installation process by configuring Portage.
 
 1. sudo Explained
-*sudo* is a wrapper that lets you run a single command with superuser--root--privileges. When you ran <pre>sudo -v</pre> in the [the chroot Jail and Installing Gentoo into It](#Creating)(/#creating the chroot jail and installing gentoo into it/) section above, you were asking sudo for a token, which allows you to commands as root for a few minutes, without being prompted for a password every time. The password that <pre>sudo -v</pre> expects you to enter is almost certainly your own, but if that doesn't work, try your system's root password (some distributions may setup sudo incorrectly). 
+*sudo* is a wrapper that lets you run a single command with superuser--root--privileges. When you ran <pre>sudo -v</pre> in the [#Creating the chroot Jail and Installing Gentoo into It](/#creating the chroot jail and installing gentoo into it/) section above, you were asking sudo for a token, which allows you to commands as root for a few minutes, without being prompted for a password every time. The password that <pre>sudo -v</pre> expects you to enter is almost certainly your own, but if that doesn't work, try your system's root password (some distributions may setup sudo incorrectly). 
 
-[Gentoo](/category/linux-help/qnd-guides/)
+*Gentoo*

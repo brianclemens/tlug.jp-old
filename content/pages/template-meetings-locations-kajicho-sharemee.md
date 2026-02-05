@@ -18,8 +18,8 @@ Chiyoda-ku, Tokyo 101-0045
 
 [Directions(Google)](https://goo.gl/maps/ks83z197Jyn)
 <noinclude>
-[SHAREmee](/category/template/meetings/locations/kajicho/)
-[Kajicho:SHAREmee](/category/template/meetings/locations/)
-[Locations:Kajicho:SHAREmee](/category/template/meetings/)
-[Meetings:Locations:Kajicho:SHAREmee](/category/template/)
+*SHAREmee*
+*Kajicho:SHAREmee*
+*Locations:Kajicho:SHAREmee*
+*Meetings:Locations:Kajicho:SHAREmee*
 </noinclude>

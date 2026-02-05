@@ -8,14 +8,14 @@ title: Template - Meetings - Itinerary - Tech - 201410
 
 1. Presentations
 
-1. Introduction to Functional Programming: Hands-On with Racket (by [Cardwell](Travis)(/travis cardwell/))
+1. Introduction to Functional Programming: Hands-On with Racket (by [Travis Cardwell](/travis cardwell/))
 
 Travis will give an interactive class on the basics of
 functional programming using [Racket](http://racket-lang.org), a dialect of
 Scheme.  Please install Racket (not Minimal Racket) onto a laptop and bring
 it with you to the meeting!
 
-1. Adventures in Tail Call Optimization (by [Cardwell](Travis)(/travis cardwell/))
+1. Adventures in Tail Call Optimization (by [Travis Cardwell](/travis cardwell/))
 
 Tail call optimization is a feature of a programming language
 (compiler or interpreter) that is essential for writing efficient

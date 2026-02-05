@@ -16,10 +16,10 @@ title: Places - Tokyo - MacIchiba
 ** [macichiba.com](http://www.macichiba.com/map.html)
 
 1. Description
-{{w|Mac}} speciality shop in [Akihabara](//category/places/tokyo/akihabara/).
+*w* speciality shop in [Akihabara](//category/places/tokyo/akihabara/).
 
 1. Discovery By
-{{ML|0706/msg00257|Mattia Dongili}}:
+*ML*:
  I've found this one recently: http://www.macichiba.com/
  they are in Akihabara (what a surprise), 東京都千代田区外神田3-12-15
  paste it in google maps and you're done :) (well they also have a map on
@@ -30,6 +30,6 @@ title: Places - Tokyo - MacIchiba
  There are more shops around that have Ibooks, but this one has a
  dedicated floor.
 
-[Tokyo:MacIchiba](/category/places/)
-[MacIchiba](/category/places/tokyo/)
-[MacIchiba](/category/places/tokyo/akihabara/)
+*Tokyo:MacIchiba*
+*MacIchiba*
+*MacIchiba*

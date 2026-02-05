@@ -10,5 +10,5 @@ Past TLUG tech meeting videos are available on vimeo.
 
 [TLUG Video Archive](http://vimeo.com/groups/tlugvideos) (on vimeo)
 
-{{Category:Meetings}}
-{{Meetings:Categories|year=Archive|month=Archive}}
+*Category:Meetings*
+*Meetings:Categories*

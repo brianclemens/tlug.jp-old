@@ -14,8 +14,8 @@ STEC 2nd Bldg., B1/B2 F<br />
 3-23-1 Shinbashi, Minato-ku, Tokyo<br />
 tel: 03-3431-5621
 [ [homepage](http://www.colowide.co.jp/tempo/amataro/60.html) ]<noinclude>
-[Amataro_Shinbashi-ten](/category/template/meetings/locations/shinbashi/)
-[Shinbashi:Amataro_Shinbashi-ten](/category/template/meetings/locations/)
-[Locations:Shinbashi:Amataro_Shinbashi-ten](/category/template/meetings/)
-[Meetings:Locations:Shinbashi:Amataro_Shinbashi-ten](/category/template/)
+*Amataro_Shinbashi-ten*
+*Shinbashi:Amataro_Shinbashi-ten*
+*Locations:Shinbashi:Amataro_Shinbashi-ten*
+*Meetings:Locations:Shinbashi:Amataro_Shinbashi-ten*
 </noinclude>

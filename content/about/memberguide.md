@@ -73,13 +73,13 @@ Comments or offers to help should be sent to the TLUG webmaster.
 
 TLUG techincal meetings are held on the second Saturday of every odd month. Demonstrations, talks, and equipment are made available for the membership.
 
-See the [page](meeting)(/current-meeting/) for details about upcoming meetings.
+See the [meeting page](/current-meeting/) for details about upcoming meetings.
 
 1. Parties
 
 Parties are held on a week night of every even month. The social interaction, beer, and food is an excellent way to create a stronger Linux community spirit.
 
-See the [page](meeting)(/current-meeting/) for details about upcoming parties.
+See the [meeting page](/current-meeting/) for details about upcoming parties.
 
 1. Discounts
 
@@ -100,7 +100,7 @@ The size of TLUG is calculated as the combined number of people on the TLUG mail
 1. Structure of Group
 
 TLUG is loosely structured. If you want to volunteer, don't be shy - we can use your help.
-A rough organization chart is available at [TLUG:Organization](/tlug/organization/)
+A rough organization chart is available at [Organization](/about/organization/)
 
 1. Joining TLUG
 

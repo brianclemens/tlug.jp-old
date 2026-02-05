@@ -8,7 +8,7 @@ title: Template - Meetings - Itinerary - Tech - 201205
 
 1. Presentations
 
-1. Joint PWG/Open Printing Meeting Report (by [Ogasawara](Naruhiko)(/naruhiko ogasawara/))
+1. Joint PWG/Open Printing Meeting Report (by [Naruhiko Ogasawara](/naruhiko ogasawara/))
 
 Ogasawara-san attended the PWG (Printing Working Group) and Open Printing [Joint Meeting](http://www.pwg.org/chair/meeting-info/april_2012_cupertino.html) that took place last month in California. In this presentation, he will give us an overview of some of the topics discussed there, including:
 - Printing from *nix
@@ -27,6 +27,6 @@ Foundation's intended goal of encouraging children to program. An
 overview of the 1981 BBC Micro, which inspired Raspberry Pi, will be
 given.
 
-1. PyCon Report / Mentoring for the Google Summer Of Code (by [Turnbull](Stephen)(/stephen turnbull/))
+1. PyCon Report / Mentoring for the Google Summer Of Code (by [Stephen Turnbull](/stephen turnbull/))
 
 Steve went to [PyCon](https://us.pycon.org/2012/) in March and interviewed several notables for some of his research in Economics. At the event, he has also volunteered as a Mailman mentor for the Google Summer of Code. This will be a short presentation where he will present on both topics, with some emphasis on mentoring for the [Google Summer Of Code](http://code.google.com/soc/).

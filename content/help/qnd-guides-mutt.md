@@ -42,4 +42,4 @@ Now, if you receive mail from someone and want to add them to your aliases, whil
 For that question, change it to ~/.mutt_aliases. If, however, it says save it to /home/john/.mutt_aliases then it's safe to accept it.
 
 This should enable you to get mutt up and running. Mutt is a very powerful and configurable client and there countless other options. For further reading you can start with a more detailed [page of mine](http://home.nyc.rr.com/computertaijutsu/mutt.html) and, of course, the mutt manual which should probably be on your machine in /usr/share/doc/mutt[number](version). It's also available on line [here](http://dev.mutt.org/doc/manual.html).
-[Mutt](/category/linux-help/qnd-guides/)
+*Mutt*

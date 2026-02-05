@@ -12,7 +12,7 @@ title: Template - Meetings - Itinerary - Tech - 200912
 1. Presentations
 
 1. << Presentation (1) >>
-**"Parallels[1] virtualization products for Linux"** By *[Anisimov](Alexei)(/alexei anisimov/)*
+**"Parallels[1] virtualization products for Linux"** By *[Alexei Anisimov](/alexei anisimov/)*
 
 *Parallels Virtuozzo Containers:*
 
@@ -44,7 +44,7 @@ title: Template - Meetings - Itinerary - Tech - 200912
 Short break *(maybe)*
 
 1. << Presentation (2) >>
-**"Linux and the Top500"** By *[Telyas](Avi)(/avi telyas/)*
+**"Linux and the Top500"** By *[Avi Telyas](/avi telyas/)*
 
 - What is the Top 500
 ** Who is in there
@@ -65,6 +65,6 @@ Short break *(maybe)*
 1. News about Linux/Open Source, general announcements, Q&A
 1. Auction (bring any gear that would would like to donate to TLUG)
 <noinclude>
-[Itinerary](/category/template/meetings/)
-[Meetings:Itinerary](/category/template/)
+*Itinerary*
+*Meetings:Itinerary*
 </noinclude>

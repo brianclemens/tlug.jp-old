@@ -8,7 +8,7 @@ title: Template - Meetings - Itinerary - Tech - 201511
 
 1. Presentations
 
-1. Android's Security Architecture (by [Elenkov](Nikolay)(/nikolay elenkov/))
+1. Android's Security Architecture (by [Nikolay Elenkov](/nikolay elenkov/))
 This talk will give an overview of Android's security architecture from
 the bottom up, and present the major Android subsystems and components
 that relate to device and data security. The talk will cover broader
@@ -18,14 +18,14 @@ such as cryptographic providers, PKI, and credential storage. Some of the
 changes introduced in the new Android 6.0 (Marshmallow) release will also
 be explored.
 
-1. Deduplicating Backup Schemes (by [Tittsler](Jim)(/jim tittsler/))
+1. Deduplicating Backup Schemes (by [Jim Tittsler](/jim tittsler/))
 Attic/Borg and Restic are examples of modern backup programs that provide 
 encryption, compression, and data integrity checks that are space efficient
 even for massive files like virtual machine images. And there are convenience
 features like mounting your backups as filesystems. Perhaps it is time to 
 replace those old rsnapshot, rdiff-backup and duplicity scripts.
 
-1. Wakame-vdc on Arch Linux (by [Kieckens](Andreas)(/andreas kieckens/)) 
+1. Wakame-vdc on Arch Linux (by [Andreas Kieckens](/andreas kieckens/)) 
 Wakame-vdc is an open source data centre virtualization suite that 
 Andreas (and his colleagues) gets paid to develop. Though it officially 
 only supports Centos, Andreas has been working on some scripts to get it 

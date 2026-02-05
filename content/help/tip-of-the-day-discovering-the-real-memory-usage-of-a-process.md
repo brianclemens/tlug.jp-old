@@ -30,4 +30,4 @@ search the manpage for '^size':
 Cheers,
 Josh
 
-[ps](/category/linux-help/tip-of-the-day/)
+*ps*

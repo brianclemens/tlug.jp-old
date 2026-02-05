@@ -23,8 +23,8 @@ Second Life
 [ [SecondLife Map](http://slurl.com/secondlife/Amazon%20Developers%201/226/150/22) ]
 
 <noinclude>
-[Cerego](/category/template/meetings/locations/shibuya/)
-[Shibuya:Cerego](/category/template/meetings/locations/)
-[Locations:Shibuya:Cerego](/category/template/meetings/)
-[Meetings:Locations:Shibuya:Cerego](/category/template/)
+*Cerego*
+*Shibuya:Cerego*
+*Locations:Shibuya:Cerego*
+*Meetings:Locations:Shibuya:Cerego*
 </noinclude>

@@ -7,7 +7,7 @@ title: Linux Help - Tip of the Day - Disabling Mouse Wheel Forward and Back in M
   Firefox
 ---
 
-{{ML|0707/msg00028.html|Josh Glover}}
+*ML*
 
 I don't know if anyone else has run into this, but every once in a
 while, if I get my mouse pointer too close to the edge of a window in
@@ -31,4 +31,4 @@ with me, here's how to disable this annoying feature:
 Cheers,<br />
 Josh
 
-[Firefox](/category/linux-help/tip-of-the-day/)
+*Firefox*

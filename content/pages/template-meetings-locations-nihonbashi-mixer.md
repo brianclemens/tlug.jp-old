@@ -19,8 +19,8 @@ Chiyoda-ku, Tokyo 103-0023
 
 [Directions(Google)](http://goo.gl/4jsRIx)
 <noinclude>
-[MIXER](/category/template/meetings/locations/nihonbashi/)
-[Nihonbashi:MIXER](/category/template/meetings/locations/)
-[Locations:Nihonbashi:MIXER](/category/template/meetings/)
-[Meetings:Locations:Nihonbashi:MIXER](/category/template/)
+*MIXER*
+*Nihonbashi:MIXER*
+*Locations:Nihonbashi:MIXER*
+*Meetings:Locations:Nihonbashi:MIXER*
 </noinclude>

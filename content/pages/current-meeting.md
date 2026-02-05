@@ -9,5 +9,5 @@ redirect: meetings:2025:09
 title: Current Meeting
 ---
 
-{{Category:Meetings}}
-{{Meetings:Categories|year=Current|month=Current}}
+*Category:Meetings*
+*Meetings:Categories*

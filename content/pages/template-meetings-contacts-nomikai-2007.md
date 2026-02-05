@@ -14,8 +14,8 @@ For directions or information before the meeting, call:
 - [ Edward Middleton](/user/edward/) : 090-3689-0292
 - Pietro Zuco : 080-5696-9996
 <noinclude>
-[Meetings:Contacts:Nomikai:2007](/category/template/)
-[Contacts:Nomikai:2007](/category/template/meetings/)
-[Nomikai:2007](/category/template/meetings/contacts/)
-[2007](/category/template/meetings/contacts/nomikai/)
+*Meetings:Contacts:Nomikai:2007*
+*Contacts:Nomikai:2007*
+*Nomikai:2007*
+*2007*
 </noinclude>

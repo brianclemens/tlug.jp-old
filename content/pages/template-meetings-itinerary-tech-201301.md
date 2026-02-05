@@ -8,7 +8,7 @@ title: Template - Meetings - Itinerary - Tech - 201301
 
 1. Presentations
 
-1. "Nagira - Nagios RESTful API" by [Kovalov](Dmytro)(/dmytro kovalov/)
+1. "Nagira - Nagios RESTful API" by [Dmytro Kovalov](/dmytro kovalov/)
 Nagira is open source project for development of web services API for
 popular monitoring system Nagios.
 
@@ -30,7 +30,7 @@ composite check(s)
 
 2. http://exchange.nagios.org/directory/Addons/APIs/Nagira--2D-Nagios-RESTful-API/details
 
-1. "Loading snowplow web analytic data into the skydb behavioral database" by [Middleton](Edward)(/edward middleton/)
+1. "Loading snowplow web analytic data into the skydb behavioral database" by [Edward Middleton](/edward middleton/)
 Skydb is a high performance open source behavioral database(1) created 
 by Ben Johnson(2).  Snowplow(1) is a web analytics platform similar to 
 google analytics for tracking user activity on a website. In this talk 

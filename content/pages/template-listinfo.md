@@ -6,14 +6,14 @@ draft: false
 title: Template - ListInfo
 ---
 
-[the *{{{1}}}* mailing list](http://www.tlug.jp/mailman/listinfo/{{{1}}})<noinclude>
+[the **{1*}* mailing list](http://www.tlug.jp/mailman/listinfo/*{1*})<noinclude>
 Makes a <code>mailto:</code> link to a TLUG mailing list.
 
-<nowiki>{{ListInfo|tlug-admin}}</nowiki>
+<nowiki>*ListInfo*</nowiki>
 
 would produce:
 
-{{ListInfo|tlug-admin}}
+*ListInfo*
 
-[ListInfo](/category/template/)
+*ListInfo*
 </noinclude>

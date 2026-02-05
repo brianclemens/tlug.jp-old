@@ -45,6 +45,6 @@ control systems, including RCS, CVS, Arch, Darcs, git, Bazaar, and Mercurial.
 1. Introduction of new members, news about Linux/Open Source, general announcements, Q&A
 1. Auction (bring any gear that would would like to donate to TLUG)
 <noinclude>
-[Itinerary](/category/template/meetings/)
-[Meetings:Itinerary](/category/template/)
+*Itinerary*
+*Meetings:Itinerary*
 </noinclude>

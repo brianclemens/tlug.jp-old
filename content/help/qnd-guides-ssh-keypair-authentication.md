@@ -6,7 +6,7 @@ draft: false
 title: Linux Help - QND-Guides - SSH Keypair Authentication
 ---
 
-Author: [Glover](Josh)(/user/jmglov/)
+Author: [Josh Glover](/user/jmglov/)
 
 1. Introduction
 This guide instructs you on creating an SSH keypair to use for passwordless authentication. This solution should not be used for serious security; see instead [ssh-agent](http://mah.everybody.org/docs/ssh).
@@ -32,4 +32,4 @@ Finally, add the public key to the *$HOME/.ssh/authorized_keys* file on each mac
 
 For each machine you want to be able to connect from, first copy the *id_dsa* file (the private key) to that machine, then follow the above steps.
 
-[SSH_Keypair_Authentication](/category/linux-help/qnd-guides/)
+*SSH_Keypair_Authentication*

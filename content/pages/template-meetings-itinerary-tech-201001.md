@@ -13,7 +13,7 @@ title: Template - Meetings - Itinerary - Tech - 201001
 
 1. << Presentation >>
 **"Revision Control for Managing Configuration Files, Part I"**<br/>
-By *[Sampson](Curt)(/curt sampson/)* and *[Turnbull](Stephen)(/stephen turnbull/)*
+By *[Curt Sampson](/curt sampson/)* and *[Stephen Turnbull](/stephen turnbull/)*
 
 This month, Curt Sampson and Steve Turnbull will talk about revision
 control and how to apply it to managing Linux system configuration. We
@@ -37,6 +37,6 @@ Short break *(maybe)*
 1. News about Linux/Open Source, general announcements, Q&A
 1. Auction (bring any gear that would would like to donate to TLUG)
 <noinclude>
-[Itinerary](/category/template/meetings/)
-[Meetings:Itinerary](/category/template/)
+*Itinerary*
+*Meetings:Itinerary*
 </noinclude>

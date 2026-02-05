@@ -9,11 +9,11 @@ title: Template - Meetings - Itinerary - Tech - 201011
 1. Presentations
 
 1. << Presentation (1) >>
-**"Deploying Gentoo servers with chef"** by *[Middleton](Edward)(/edward middleton/)*
+**"Deploying Gentoo servers with chef"** by *[Edward Middleton](/edward middleton/)*
 
-[Middleton](Edward)(/edward middleton/) explained how to use chef to deploy and maintain Gentoo Linux based servers.  The talk will cover components of the chef deployment system, basic operation and the development of chef cookbooks for Gentoo packages.
+[Edward Middleton](/edward middleton/) explained how to use chef to deploy and maintain Gentoo Linux based servers.  The talk will cover components of the chef deployment system, basic operation and the development of chef cookbooks for Gentoo packages.
 
 1. << Presentation (2) >>
-**"Developing a Gamers site in PHP"** by *[Kieckens](Andreas)(/andreas kieckens/)*
+**"Developing a Gamers site in PHP"** by *[Andreas Kieckens](/andreas kieckens/)*
 
-[Kieckens](Andreas)(/andreas kieckens/) will talk about the development of his site for international gamers.
+[Andreas Kieckens](/andreas kieckens/) will talk about the development of his site for international gamers.

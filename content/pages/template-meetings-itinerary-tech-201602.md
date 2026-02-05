@@ -8,7 +8,7 @@ title: Template - Meetings - Itinerary - Tech - 201602
 
 1. Presentations
 
-1. Digital Photography with Linux (by [Tomita](Alberto)(/alberto tomita/))
+1. Digital Photography with Linux (by [Alberto Tomita](/alberto tomita/))
 This presentation will introduce some of the digital photography applications available in Linux, from GIMP to Darktable, and going through a few others.
 
 
@@ -16,7 +16,7 @@ The first part will cover the very basics of photography and then introduce the 
 
 [Video](https://youtu.be/KRxJiRRXvxk?t=21m15s)
 
-1. OpenVNet live demo from scratch (by [Kieckens](Andreas)(/andreas kieckens/))
+1. OpenVNet live demo from scratch (by [Andreas Kieckens](/andreas kieckens/))
 OpenVNet is a Software Defined Networking solution developed by Axsh Co LTD. (where Andreas works) and published as free open source software (http://axsh.jp/openvnet/). 
 
 

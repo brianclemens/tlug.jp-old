@@ -23,7 +23,7 @@ Hi to all, I'm Alessandro, i'm an Italian student (I live near Bergamo) of i'm 1
 ** [PC Ciula](http://pciula.wordpress.com/)
 ** [Pr0 language](http://pr0ciula.blogspot.com/)
 - Wiki
-** {{w:it|User:Acolleoni}}
+** *w:it*
 
 1. TLUG
 *I'm TLUG-member since september 2007.

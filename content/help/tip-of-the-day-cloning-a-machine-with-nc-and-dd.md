@@ -6,14 +6,14 @@ draft: false
 title: Linux Help - Tip of the Day - Cloning a machine with nc and dd
 ---
 
-{{ML|0707/msg00708.html|Josh Glover}}
+*ML*
 
 If you have two more-or-less similar machines (meaning mainly that the target machine has a hard drive at least as large as the source; the kernel seems to cope with most other differences as "trivial", assuming you have a pretty modular one like most distros give you these days, ya damn kids!) and you want to clone one:
 
-1. Plug both machines into a fast hub, or use a {{W|Ethernet_crossover_cable}} to connect them directly
+1. Plug both machines into a fast hub, or use a *W* to connect them directly
 1. Boot up both machines from a LiveCD like [Gentoo](ftp://ftp.ecc.u-tokyo.ac.jp/GENTOO/releases/x86/current/livecd/livecd-i686-installer-2007.0.iso) or [KNOPPIX](ftp://ftp.kernel.org/pub/dist/knoppix/KNOPPIX_V5.1.1CD-2007-01-04-EN.iso)
 1. Bring up networking on both machines. I would advise giving them both private addresses, say 192.168.1.1 for the source and 192.168.1.254 for the target (and thus that is how my examples will work)
-1. Determine the device name of the hard drive on each machine. If you have an {{w|IDE}} drive, your device will almost certainly be <code>/dev/hda</code>, and if you have a {{w|SCSI}} (or {{w|SATA}}? can someone confirm this) drive, it will be <code>/dev/sda</code>. To verify this, run: <pre>sudo /sbin/fdisk -l /dev/hda</pre> or <pre>sudo /sbin/fdisk -l /dev/sda</pre> (Note that the option is a lowercase "L", not the digit "one" or a capital "eye"). If you have the right drive, the output should look something like this: <pre>Disk /dev/hda: 60.0 GB, 60011642880 bytes&#13;255 heads, 63 sectors/track, 7296 cylinders&#13;Units = cylinders of 16065 * 512 = 8225280 bytes&#13;&#13;   Device Boot    Start       End    Blocks   Id  System&#13;/dev/hda1   *         1        13    104391   83  Linux&#13;/dev/hda2            14      7042  56460442+  83  Linux&#13;/dev/hda3          7043      7296   2040255   82  Linux swap</pre>
+1. Determine the device name of the hard drive on each machine. If you have an *w* drive, your device will almost certainly be <code>/dev/hda</code>, and if you have a *w* (or *w*? can someone confirm this) drive, it will be <code>/dev/sda</code>. To verify this, run: <pre>sudo /sbin/fdisk -l /dev/hda</pre> or <pre>sudo /sbin/fdisk -l /dev/sda</pre> (Note that the option is a lowercase "L", not the digit "one" or a capital "eye"). If you have the right drive, the output should look something like this: <pre>Disk /dev/hda: 60.0 GB, 60011642880 bytes&#13;255 heads, 63 sectors/track, 7296 cylinders&#13;Units = cylinders of 16065 * 512 = 8225280 bytes&#13;&#13;   Device Boot    Start       End    Blocks   Id  System&#13;/dev/hda1   *         1        13    104391   83  Linux&#13;/dev/hda2            14      7042  56460442+  83  Linux&#13;/dev/hda3          7043      7296   2040255   82  Linux swap</pre>
 1. On the target machine:
 1. <pre>HDD_DEV=/dev/sda</pre> replace <code>/dev/sda</code> with the appropriate device name from the previous step
 1. <pre>TARGET_PORT=2727</pre>
@@ -27,4 +27,4 @@ If you have two more-or-less similar machines (meaning mainly that the target ma
 1. Wait for a while
 1. Once the transfer finishes (you will know when you get dropped back to a command prompt; switch to a different virtual terminal and run <code>top</code> if you'd like to monitor the procedure--<code>dd</code> and <code>nc</code> processes should be consistently near the top until completion), reboot the target machine off its hard drive
 
-[dd](/category/linux-help/tip-of-the-day/)
+*dd*

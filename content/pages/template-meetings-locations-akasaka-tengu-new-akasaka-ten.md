@@ -14,8 +14,8 @@ Fujibayashi Bldg. B1<br />
 3-15-13 Akasaka, Minato-ku, Tokyo<br />
 tel 03-3584-9745
 <noinclude>
-[Tengu_New_Akasaka-ten](/category/template/meetings/locations/akasaka/)
-[Akasaka:Tengu_New_Akasaka-ten](/category/template/meetings/locations/)
-[Locations:Akasaka:Tengu_New_Akasaka-ten](/category/template/meetings/)
-[Meetings:Locations:Akasaka:Tengu_New_Akasaka-ten](/category/template/)
+*Tengu_New_Akasaka-ten*
+*Akasaka:Tengu_New_Akasaka-ten*
+*Locations:Akasaka:Tengu_New_Akasaka-ten*
+*Meetings:Locations:Akasaka:Tengu_New_Akasaka-ten*
 </noinclude>

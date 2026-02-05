@@ -8,7 +8,7 @@ title: Template - Meetings - Itinerary - Tech - 201407
 
 1. Presentations
 
-1. i18n on Linux by example: Japanese (by [Horn](Christian)(/christian horn/))
+1. i18n on Linux by example: Japanese (by [Christian Horn](/christian horn/))
 - What are i18n and l10n?  Do we need that?
 - Character encodings: what is it, what are the most important ones?
 - output of unicode characters on Linux
@@ -19,7 +19,7 @@ title: Template - Meetings - Itinerary - Tech - 201407
 - i18n in BIOS/Console/UEFI
 
 
-1. Metasepi Report: Writing NetBSD Sound Drivers in Haskell (by [Okabe](Kiwamu)(/kiwamu okabe/))
+1. Metasepi Report: Writing NetBSD Sound Drivers in Haskell (by [Kiwamu Okabe](/kiwamu okabe/))
 Most strongly typed, functional programming languages are not equipped with a reentrant garbage collector.
 Therefore such languages are not used for operating systems programming, where the virtues of types are most desired.
 We propose the use of Context-Local Heaps (CLHs) to achieve reentrancy, which also increasing the speed of garbage collection.

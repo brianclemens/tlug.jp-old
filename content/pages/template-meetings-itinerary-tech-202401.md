@@ -12,7 +12,7 @@ title: Template - Meetings - Itinerary - Tech - 202401
 1. Presentations
 
 1. << Presentation (1) >>
-**"Developers — Build your Career Now!"** By *[Grisanzio](Jim)(/jim grisanzio/)*
+**"Developers — Build your Career Now!"** By *[Jim Grisanzio](/jim grisanzio/)*
 
 Developers — Build your Career Now! Lessons learned from profiling
 hundreds of developers who have acquired deep mastery, developed
@@ -23,7 +23,7 @@ robust networks, and contributed to open communities.
 Short break *(maybe)*
 
 1. << Presentation (2) >>
-**"A Future for Enterprise Linux"** by *[Clemens](Brian)(/brian clemens/)*
+**"A Future for Enterprise Linux"** by *[Brian Clemens](/brian clemens/)*
 
 “A Future for Enterprise Linux”. Brian will cover the history, late
 unpleasantness, and some paths forward in the enterprise Linux
@@ -34,6 +34,6 @@ ecosystem.
 1. News about Linux/Open Source, general announcements, Q&A
 1. Auction (bring any gear that would would like to donate to TLUG)
 <noinclude>
-[Itinerary](/category/template/meetings/)
-[Meetings:Itinerary](/category/template/)
+*Itinerary*
+*Meetings:Itinerary*
 </noinclude>

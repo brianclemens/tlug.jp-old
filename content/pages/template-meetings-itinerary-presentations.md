@@ -9,9 +9,9 @@ title: Template - Meetings - Itinerary - Presentations
 ---
 
 1. Presentations
-{{{presentations}}}
+*{presentations*}
 <noinclude>
-[Presentations](/category/template/meetings/itinerary/)
-[Itinerary:Presentations](/category/template/meetings/)
-[Meetings:Itinerary:Presentations](/category/template/)
+*Presentations*
+*Itinerary:Presentations*
+*Meetings:Itinerary:Presentations*
 </noinclude>

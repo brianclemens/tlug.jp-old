@@ -6,14 +6,14 @@ draft: false
 title: Template - wikt
 ---
 
-[{{{1}}} (Wiktionary)](http://en.wiktionary.org/wiki/{{{1}}})<noinclude>
+[*{1*} (Wiktionary)](http://en.wiktionary.org/wiki/*{1*})<noinclude>
 Creates a link to Wiktionary (English).
 
-<nowiki>{{wikt|collabo}}</nowiki>
+<nowiki>*wikt*</nowiki>
 
 would produce:
 
-{{wikt|collabo}}
+*wikt*
 
-[wikt](/category/template/)
+*wikt*
 </noinclude>

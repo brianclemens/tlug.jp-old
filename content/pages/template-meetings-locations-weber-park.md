@@ -13,7 +13,7 @@ Aqua City Odaiba 7F, 1-7-1 Daiba, Minato-ku, Tokyo, 135-0091<br />
 [ [Info](https://www.weberpark.com/index_us.html) ]
 [ [Info(ja)](https://www.weberpark.com/) ] 
 [ [map](https://g.page/weberpark?share) ]<noinclude>
-[Park](Weber)(/category/template/meetings/locations/)
-[Park](Locations:Weber)(/category/template/meetings/)
-[Park](Meetings:Locations:Weber)(/category/template/)
+*Weber Park*
+*Locations:Weber Park*
+*Meetings:Locations:Weber Park*
 </noinclude>

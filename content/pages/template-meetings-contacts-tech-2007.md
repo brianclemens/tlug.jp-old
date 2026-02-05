@@ -13,6 +13,6 @@ For directions or information before the meeting, call:
 <!--* Pietro Zuco : 080-5696-9996 -->
 - Josh Glover : 080-5061-4266
 <noinclude>
-[Contacts](/category/template/meetings/)
-[Meetings:Contacts](/category/template/)
+*Contacts*
+*Meetings:Contacts*
 </noinclude>

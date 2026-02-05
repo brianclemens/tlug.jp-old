@@ -6,15 +6,15 @@ draft: false
 title: Template - YouTube
 ---
 
-[{{{2}}}](http://www.youtube.com/watch?v={{{1}}})<noinclude>
+[*{2*}](http://www.youtube.com/watch?v=*{1*})<noinclude>
 
 Makes a link to a YouTube video.
 
-<pre>{{YouTube|A8CFFdGkST8|TLUG TechMtg 2005-11: Subversion 1/8}}</pre>
+<pre>*YouTube*</pre>
 
 would produce:
 
-{{YouTube|A8CFFdGkST8|TLUG TechMtg 2005-11: Subversion 1/8}}
+*YouTube*
 
-[YouTube](/category/template/)
+*YouTube*
 </noinclude>

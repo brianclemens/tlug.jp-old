@@ -8,7 +8,7 @@ title: Template - Meetings - Itinerary - Tech - 201405
 
 1. Presentations
 
-1. Living on the command line (by [Kozhuharov](Kalin)(/kalin kozhuharov/))
+1. Living on the command line (by [Kalin Kozhuharov](/kalin kozhuharov/))
 Ninja skillz for emergency Data Analytics or how to stay in command of when something hits the fan...
 
 What do you do when, out of the blue, you sense emergency in the air,
@@ -41,7 +41,7 @@ less the same methods and since data is public, I'll use it in a demo
 of CLI approaches to Data Analytics. We'll analyze and visualize some
 of the data with some ninja tricks, stay alert!
 
-1. Linux Quiz (by [Cardwell](Travis)(/travis cardwell/))
+1. Linux Quiz (by [Travis Cardwell](/travis cardwell/))
 Would you like to explore and expand your knowledge of Linux?
 The Linux Quiz will be an interactive discussion where people of all
 experience levels, from beginners to seasoned sysadmins, can ask questions

@@ -23,6 +23,6 @@ title: Template - Meetings - Itinerary - Tech - 202508
 There will be a *konshinkai* from the end of the last presentation until closing at 16:00.
 
 <noinclude>
-[Itinerary](/category/template/meetings/)
-[Meetings:Itinerary](/category/template/)
+*Itinerary*
+*Meetings:Itinerary*
 </noinclude>

@@ -7,8 +7,8 @@ draft: false
 title: Template - Meetings - Nomikai - Title
 ---
 
-1. Nomikai / {{{year}}} - {{{month}}}
+1. Nomikai / *{year*} - *{month*}
 <noinclude>
-[Title](/category/template/meetings/nomikai/)
-[Meetings:Nomikai:Title](/category/template/)
+*Title*
+*Meetings:Nomikai:Title*
 </noinclude>

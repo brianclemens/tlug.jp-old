@@ -8,13 +8,13 @@ title: Template - Meetings - Itinerary - Tech - 201401
 
 1. Presentations
 
-1. Raspberry Pi in Japan (by [Ohta](Masafumi)(/masafumi ohta/))
+1. Raspberry Pi in Japan (by [Masafumi Ohta](/masafumi ohta/))
 Ohta-san will present a report on the activities of the RPi community
 in Japan that took place throughout 2013. He will also talk about his
 plans to hold an event early in 2014, when Eben Upton is scheduled to
 come to Japan.
 
-1. Introduction to Docker (by [Cardwell](Travis)(/travis cardwell/))
+1. Introduction to Docker (by [Travis Cardwell](/travis cardwell/))
 Full virtualization has been around since the 1960s, but increased
 hardware speeds allowed the technology to revolutionize commodity
 server and workstation infrastructure in the mid-2000s.  Similarly,

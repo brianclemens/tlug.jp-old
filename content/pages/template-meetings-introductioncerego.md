@@ -18,6 +18,6 @@ TLUG meetings are traditionally small and unstructured (VERY CASUAL). Most of th
 
 As a general rule, the Technical Meetings are held on the 2nd SAT of odd numbered months and the Nomikai Meetings are usually held on the 2nd FRI of even numbered months.  There are, of course, exceptions to this rule, so it is best to keep an eye on the mailing list, or check back here for date/venue changes as the date approaches.
 <noinclude>
-[Introduction](/category/template/meetings/)
-[Meetings:Introduction](/category/template/)
+*Introduction*
+*Meetings:Introduction*
 </noinclude>

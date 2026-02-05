@@ -8,7 +8,7 @@ title: Template - Meetings - Itinerary - Tech - 201505
 
 1. Presentations
 
-1. Modula-2 revision project (by [Kowarsch](Benjamin)(/benjamin kowarsch/))
+1. Modula-2 revision project (by [Benjamin Kowarsch](/benjamin kowarsch/))
 [Modula-2] is a type safe systems programming language of the Pascal family
 (http://en.wikipedia.org/wiki/Modula-2) 
 
@@ -18,7 +18,7 @@ The underlying rationale is that in order to fix the massive security problems w
 
 Benjamin will introduce the classic Modula-2 language in brief and the transformation to the revised language. He will present select use cases in classical Modula-2 and in C and show how type safety in the revised language can solve security issues underlying the use case. Finally, he will talk about the development of his bootstrap compiler as well as upcoming work to support the revised language as a new dialect option in GM2, Gaius Mulley’s Modula-2 front end for GCC.
 
-1. Ansible (by [Cardwell](Travis)(/travis cardwell/))
+1. Ansible (by [Travis Cardwell](/travis cardwell/))
 
 [Ansible] (http://docs.ansible.com/) is a relatively new platform for configuration management, but it is already quite popular.
 It has very few requirements, which makes it easy to try out with little investment.  Travis will explain how to get

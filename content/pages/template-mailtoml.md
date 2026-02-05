@@ -6,14 +6,14 @@ draft: false
 title: Template - MailtoML
 ---
 
-[<{{{1}}}@tlug.jp>](mailto:{{{1}}}@tlug.jp)<noinclude>
+[<*{1*}@tlug.jp>](mailto:*{1*}@tlug.jp)<noinclude>
 Makes a <code>mailto:</code> link to a TLUG mailing list.
 
-<nowiki>{{MailtoML|tlug-admin}}</nowiki>
+<nowiki>*MailtoML*</nowiki>
 
 would produce:
 
-{{MailtoML|tlug-admin}}
+*MailtoML*
 
-[MailtoML](/category/template/)
+*MailtoML*
 </noinclude>

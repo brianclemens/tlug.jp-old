@@ -7,10 +7,10 @@ title: Main Page
 <big>**Welcome to the Tokyo Linux Users Group (TLUG) Wiki**</big>
 
 1. TLUG Related
-- [meeting](Next)(/current-meeting/)
-- [Meetings](Past)(//category/meetings/)
+- [Next meeting](/current-meeting/)
+- [Past Meetings](//category/meetings/)
 - [TLUG_Timeline](/tlug-timeline/)
-- [Anniversary Project](15th)(/15th-anniversary-project/)
+- [15th Anniversary Project](/15th-anniversary-project/)
 - [TLUG.sig](/tlug.sig/) amusing quotes from our members
 - [NPO_Howto](/npo-howto/)
 ** How TLUG became a NPO
@@ -20,8 +20,8 @@ title: Main Page
 - TLUG Threads of interest from the mailing list.
 
 1. Topics on this Wiki
-- [Events in Tokyo](Tech)(/tech events in tokyo/)
-- [Help](Linux)(/linux help/)
+- [Tech Events in Tokyo](/tech events in tokyo/)
+- [Linux Help](/linux help/)
 ** More general Linux help information
 - [Projects](/projects/) - Projects that have been proposed and/or are being worked on by TLUG members
 - [Translations](//category/translations/) - TLUG translation projects
@@ -29,31 +29,31 @@ title: Main Page
 - [Articles](//category/articles/)
 - [Admin](//category/admin/) - public information on the administration of TLUG
 - [Marketplace](/marketplace/)
-- [Shirt](Tlug)(/tlug shirt/)
-- [And Linux Howto](Japanese)(/japanese and linux howto/)
+- [Tlug Shirt](/tlug shirt/)
+- [Japanese And Linux Howto](/japanese and linux howto/)
 ** Describes how to install japanese language on any linux
-- [Hardware Support Linux](Japanese)(/japanese hardware support linux/)
+- [Japanese Hardware Support Linux](/japanese hardware support linux/)
 ** DeviceName (Also have a picture for each device?)
-- [Candy](Eye)(/eye candy/)
-- [Presentations](Technical)(/technical presentations/)
+- [Eye Candy](/eye candy/)
+- [Technical Presentations](/technical presentations/)
 ** Presentation notes
 ** Videos
 ** Notes and links associated with presentation
 ** Proposed presentation topics
-- [Legal](Japanese)(/japanese legal/)
+- [Japanese Legal](/japanese legal/)
 ** Japanese Laws
 ** Sources of Legal advice
 ** Arrest in Japan
-- [Japan](FreeGeek)(/freegeek japan/)
+- [FreeGeek Japan](/freegeek japan/)
 ** Recycle old equipment using FOSS
 ** FreeGeek_Howto
 ** LocationsInJapan
 
 1. About this Wiki
-- [I can't edit anything! Help!](Hey,)(/tlugwiki/edithowto/)
-- [about this wiki itself](Discussion)(/tlugwiki/wiki topics/)
-- [for the Wiki](Suggestions)(/tlugwiki/wiki topics/)
-- [all is on this wiki?](Who)(/special/listusers/)
+- [Hey, I can't edit anything! Help!](/tlugwiki/edithowto/)
+- [Discussion about this wiki itself](/tlugwiki/wiki topics/)
+- [Suggestions for the Wiki](/tlugwiki/wiki topics/)
+- [Who all is on this wiki?](/special/listusers/)
 
 1. Wikimedia references
 

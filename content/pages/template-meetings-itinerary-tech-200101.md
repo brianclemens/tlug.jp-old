@@ -11,4 +11,4 @@ projects your working on, and have a laugh in the process.
 
 After the meeting, there will be a shin-en-kai at:
 
-{{Meetings:Locations:Akasaka:Tengu_New_Akasaka-ten}}
+*Meetings:Locations:Akasaka:Tengu_New_Akasaka-ten*

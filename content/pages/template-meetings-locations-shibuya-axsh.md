@@ -17,8 +17,8 @@ Kitasando-R Bldg 1F<br />
 [ [map](https://maps.app.goo.gl/3CRS3ovorqYZorsk8) ]
 
 <noinclude>
-[Axsh](/category/template/meetings/locations/shibuya/)
-[Shibuya:Axsh](/category/template/meetings/locations/)
-[Locations:Shibuya:Axsh](/category/template/meetings/)
-[Meetings:Locations:Shibuya:Axsh](/category/template/)
+*Axsh*
+*Shibuya:Axsh*
+*Locations:Shibuya:Axsh*
+*Meetings:Locations:Shibuya:Axsh*
 </noinclude>

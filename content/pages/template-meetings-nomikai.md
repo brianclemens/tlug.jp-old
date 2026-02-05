@@ -12,6 +12,6 @@ This event is open to all Linux users and friends, and is to promote casual Linu
 
 Even if you want to come at the last minute it's okay - we may have to squeeze a bit, but please come!
 <noinclude>
-[Nomikai](/category/template/meetings/)
-[Meetings:Nomikai](/category/template/)
+*Nomikai*
+*Meetings:Nomikai*
 </noinclude>

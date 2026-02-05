@@ -18,8 +18,8 @@ Chiyoda-ku, Tokyo, Japan, 101-0024 <br>
 
 [ [directions](https://maps.app.goo.gl/ZcSU9Za99TBnavLV8)  ]
 <noinclude>
-[Building](Safran)(/category/template/meetings/locations/akihabara/)
-[Building](Akihabara:Safran)(/category/template/meetings/locations/)
-[Building](Locations:Akihabara:Safran)(/category/template/meetings/)
-[Building](Meetings:Locations:Akihabara:Sfaran)(/category/template/)
+*Safran Building*
+*Akihabara:Safran Building*
+*Locations:Akihabara:Safran Building*
+*Meetings:Locations:Akihabara:Sfaran Building*
 </noinclude>

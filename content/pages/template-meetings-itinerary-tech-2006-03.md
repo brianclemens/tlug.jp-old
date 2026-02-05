@@ -11,7 +11,7 @@ title: Template - Meetings - Itinerary - Tech - 2006 - 03
 1. Presentations
 
 1. << Presentation (1) >>
-**"F/OSS Licensing and distributing - Part 1"** by *[J.Turnbull](Stephen)(/stephen j.turnbull/)* and *[Blut](Zev)(/zev blut/)*
+**"F/OSS Licensing and distributing - Part 1"** by *[Stephen J.Turnbull](/stephen j.turnbull/)* and *[Zev Blut](/zev blut/)*
 
 March's meeting is a discussion on Free and Open Source software
 licenses.  After a short introduction to the application of
@@ -31,11 +31,11 @@ when choosing licenses for a new product.
 Short break *(maybe)*
 
 1. << Presentation (2) >>
-**"F/OSS Licensing and distributing - Part 2"** by *[J.Turnbull](Stephen)(/stephen j.turnbull/)* and *[Blut](Zev)(/zev blut/)*
+**"F/OSS Licensing and distributing - Part 2"** by *[Stephen J.Turnbull](/stephen j.turnbull/)* and *[Zev Blut](/zev blut/)*
 
 [ [video](http://vimeo.com/6015208) ]
 
 <noinclude>
-[Itinerary](/category/template/meetings/)
-[Meetings:Itinerary](/category/template/)
+*Itinerary*
+*Meetings:Itinerary*
 </noinclude>

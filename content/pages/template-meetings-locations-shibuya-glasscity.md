@@ -15,5 +15,5 @@ Glass City Shibuya  (10F reception)<br>
 [Directions](https://medium.com/henngeblog/how-to-get-to-hde-hq-from-mark-city-english-f182c6bbec19)
 
 <noinclude>
-[Category:Template:Meetings:Locations:Shibuya:GlassCity](/category/template/meetings/locations/shibuya/glasscity/)
+*Category:Template:Meetings:Locations:Shibuya:GlassCity*
 </noinclude>

@@ -44,12 +44,12 @@ Chiyoda-ku, Sotokanda 4-14-1
 - oolong tea
 
 1. Details
-This event is [celebrate the 15th anniversary](to)(/15th-anniversary-project/) of the creation of TLUG.
+This event is [to celebrate the 15th anniversary](/15th-anniversary-project/) of the creation of TLUG.
 
 We need to confirm numbers to book the venue so please post something to the [tlug list](http://lists.tlug.jp/list.html#tlug) or register at the [TLUG 15th Anniversary Party page on atnd.org](http://atnd.org/events/1645) if you are planning on attending.
 
 1. Contact Info
 For directions or information before the meeting, call:
-- [Middleton](Edward)(/edward middleton/) : 090-3689-0292
-- [Tomita](Alberto)(/alberto tomita/) : 080-3463-9256
-{{Meetings:Categories|year=2009|month=09}}
+- [Edward Middleton](/edward middleton/) : 090-3689-0292
+- [Alberto Tomita](/alberto tomita/) : 080-3463-9256
+*Meetings:Categories*

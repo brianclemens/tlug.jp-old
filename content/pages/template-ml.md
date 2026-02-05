@@ -6,16 +6,16 @@ draft: false
 title: Template - ML
 ---
 
-From the [TLUG mailing list](http://lists.tlug.jp/ML/{{{1}}})<br />
-Quoth {{{2}}}:
+From the [TLUG mailing list](http://lists.tlug.jp/ML/*{1*})<br />
+Quoth *{2*}:
 <noinclude>
 Makes a link to the main TLUG mailing list archives.
 
-<pre>{{ML|0707/msg00028.html|Josh Glover}}</pre>
+<pre>*ML*</pre>
 
 would produce:
 
-{{ML|0707/msg00028.html|Josh Glover}}
+*ML*
 
-[ML](/category/template/)
+*ML*
 </noinclude>

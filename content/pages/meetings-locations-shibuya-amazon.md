@@ -5,11 +5,11 @@ title: Meetings - Locations - Shibuya - Amazon
 ---
 
 1. Address
-{{Meetings:Locations:Shibuya:Amazon}}
+*Meetings:Locations:Shibuya:Amazon*
 
 1. Directions
 1. Tokyo Metro Shibuya Station
-1. Enter the JR / Tokyu station and [the directions](follow)(/#jr / tokyu shibuya station/) from there.
+1. Enter the JR / Tokyu station and [follow the directions](/#jr / tokyu shibuya station/) from there.
 
 1. JR / Tokyu Shibuya Station
 1. Take the Miyamasuzaka exit (宮益坂方面), which is the long one that goes over the street right in front of the Tokyu Toyoku Line gates

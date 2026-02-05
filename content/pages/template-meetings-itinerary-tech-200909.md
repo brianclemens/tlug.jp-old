@@ -12,7 +12,7 @@ title: Template - Meetings - Itinerary - Tech - 200909
 1. Presentations
 
 1. << Presentation (1) >>
-**"Using the shell effectively"** By *[Blut](Zev)(/zev blut/)*
+**"Using the shell effectively"** By *[Zev Blut](/zev blut/)*
 
 Zev will give a talk/demo/workshop about using the unix shell more effectively.  His talk will include effective shell navigation with readline and history.
 
@@ -37,6 +37,6 @@ A hackerspace is a group of hackers/techies/geeks/artists who set up a physical 
 1. News about Linux/Open Source, general announcements, Q&A
 1. Auction (bring any gear that would would like to donate to TLUG)
 <noinclude>
-[Itinerary](/category/template/meetings/)
-[Meetings:Itinerary](/category/template/)
+*Itinerary*
+*Meetings:Itinerary*
 </noinclude>

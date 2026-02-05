@@ -4,4 +4,4 @@ draft: false
 title: Template - Meetings - Contacts - Nomikai
 ---
 
-{{Template:Meetings:Contacts:Nomikai:2007}}
+*Template:Meetings:Contacts:Nomikai:2007*

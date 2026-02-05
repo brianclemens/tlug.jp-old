@@ -8,13 +8,13 @@ title: Template - Meetings - Itinerary - Tech - 201311
 
 1. Presentations
 
-1. Programming Smart Cards/SIM Cards (by [Elenkov](Nikolay)(/nikolay elenkov/))
+1. Programming Smart Cards/SIM Cards (by [Nikolay Elenkov](/nikolay elenkov/))
 Programming and using Smart Cards on Linux. Nikolay will cover the basics of smart card programming and introduce some of the major open source middleware and tools available for Linux.
 
-1. Introduction to WebRTC (by [Middleton](Edward)(/edward middleton/))
+1. Introduction to WebRTC (by [Edward Middleton](/edward middleton/))
 Edward will cover the history of peer-to-peer technology in the web. He'll look at the WebRTC API's and protocols, and then cover some interesting open-source projects using WebRTC technology.
 
-1. TogetherJS - Introduction and Demo (by [Tittsler](Jim)(/user/jimtittsler/))
+1. TogetherJS - Introduction and Demo (by [Jim Tittsler](/user/jimtittsler/))
 On a related topic following Edwards's presentation, Jim will talk about [TogetherJS](http://TogetherJS.com/), an easy collaboration tool for your website with Javascript and WebRTC.
 
 1. nijikai

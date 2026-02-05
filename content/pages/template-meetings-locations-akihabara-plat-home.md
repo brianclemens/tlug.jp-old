@@ -18,8 +18,8 @@ Chiyoda-Ku, Tokyo, Japan, 101-0021 <br>
 
 [ [train](http://maps.google.com/maps?f=d&source=s_d&saddr=&daddr=35.699284,139.772336&hl=en&geocode=&mra=ls&ttype=arr&date=10%2F09%2F10&time=1:50pm&noexp=0&noal=0&sort=time&sll=35.699229,139.772382&sspn=0.001486,0.002411&ie=UTF8&t=h&z=19&start=0) | [map](http://www.plathome.com/profile/location.html) ]
 <noinclude>
-[Plat'home](/category/template/meetings/locations/akihabara/)
-[Akihabara:Plat'home](/category/template/meetings/locations/)
-[Locations:Akihabara:Plat'home](/category/template/meetings/)
-[Meetings:Locations:Akihabara:Plat'home](/category/template/)
+*Plat'home*
+*Akihabara:Plat'home*
+*Locations:Akihabara:Plat'home*
+*Meetings:Locations:Akihabara:Plat'home*
 </noinclude>

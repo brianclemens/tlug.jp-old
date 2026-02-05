@@ -6,7 +6,7 @@ draft: false
 title: Linux Help - QND-Guides - Getmail
 ---
 
-Author: [Robbins](Scott)(/user/scottro/)
+Author: [Scott Robbins](/user/scottro/)
 
 1. Introduction
 Getmail is aimed to be a replacement for fetchmail. Many people consider it faster and more secure than fetchmail. My personal experience has been that it seems to at least be a little faster.
@@ -21,7 +21,7 @@ Note that this page is about getmail version 4.x. Debian and some others, as of 
 As fetchmail is still far better known, the chances are that you don't have getmail installed. However, it never hurts to check. At a command line type:
  which getmail
 
-If you get a response like */usr/bin/getmail* or */usr/local/bin/getmail*, you can skip to [#Configuration](/#configuration/). Otherwise, continue with [Getmail_2](#Installing)(/#installing getmail-2/).
+If you get a response like */usr/bin/getmail* or */usr/local/bin/getmail*, you can skip to [#Configuration](/#configuration/). Otherwise, continue with [#Installing Getmail_2](/#installing getmail-2/).
 
 1. Installing Getmail
 First follow the instructions in [Linux_Help:QND-Guides:Finding_and_Installing_Software](/linux-help/qnd-guides/finding-and-installing-software/) for information on getting and installing Getmail. If it's not included with your distribution (while it is in [Gentoo](http://www.gentoo.org)'s portage and FreeBSD's ports, it doesn't seem to be on any of the RedHat 8.0 CDs) then go to the getmail homepage. They have both a tar.gz file and an RPM. I haven't used the RPM--the tar.gz file will work with RedHat. 
@@ -148,4 +148,4 @@ In each case, once I fixed the error in my MDA's configuration file Getmail dele
 - <pre>man crontab</pre>
 - <pre>man 5 crontab</pre>
 
-[Getmail](/category/linux-help/qnd-guides/)
+*Getmail*

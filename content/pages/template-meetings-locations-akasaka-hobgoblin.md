@@ -13,8 +13,8 @@ title: Template - Meetings - Locations - Akasaka - Hobgoblin
 Tamondo Bldg., B1<br />
 2-13-19 Akasaka, Minato-ku, Tokyo<br />
 tel. 03-3585-3681<noinclude>
-[Tengu_New_Akasaka-ten](/category/template/meetings/locations/akasaka/)
-[Akasaka:Tengu_New_Akasaka-ten](/category/template/meetings/locations/)
-[Locations:Akasaka:Tengu_New_Akasaka-ten](/category/template/meetings/)
-[Meetings:Locations:Akasaka:Tengu_New_Akasaka-ten](/category/template/)
+*Tengu_New_Akasaka-ten*
+*Akasaka:Tengu_New_Akasaka-ten*
+*Locations:Akasaka:Tengu_New_Akasaka-ten*
+*Meetings:Locations:Akasaka:Tengu_New_Akasaka-ten*
 </noinclude>

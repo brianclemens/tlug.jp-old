@@ -17,8 +17,8 @@ title: Template - Meetings - Locations - Akasaka - LinuxProbe Hall
 LinuxProbe is an organization working to independently test and certify hardware and software for Linux,
 providing unbiased information to serve the Linux community.
 <noinclude>
-[LinuxProbe_Hall](/category/template/meetings/locations/akasaka/)
-[Akasaka:LinuxProbe_Hall](/category/template/meetings/locations/)
-[Locations:Akasaka:LinuxProbe_Hall](/category/template/meetings/)
-[Meetings:Locations:Akasaka:LinuxProbe_Hall](/category/template/)
+*LinuxProbe_Hall*
+*Akasaka:LinuxProbe_Hall*
+*Locations:Akasaka:LinuxProbe_Hall*
+*Meetings:Locations:Akasaka:LinuxProbe_Hall*
 </noinclude>

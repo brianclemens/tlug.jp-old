@@ -36,4 +36,4 @@ Josh
 PS: Yes, I do know about Mycroft search plugins [http://mycroft.mozdev.org/download.html?name=pgp.mit.edu&submitform=Search] [http://mycroft.mozdev.org/download.html?name=kobesearch.cpan.org&submitform=Search] [http://www.jmglov.net/opensource/], but I find "Ctrl + L g foo Enter" faster even than "Ctrl + L Tab foo (Ctrl +
 (Up|Down))* Enter". :)
 
-[Firefox](/category/linux-help/tip-of-the-day/)
+*Firefox*

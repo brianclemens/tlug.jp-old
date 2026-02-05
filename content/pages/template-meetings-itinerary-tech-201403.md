@@ -8,7 +8,7 @@ title: Template - Meetings - Itinerary - Tech - 201403
 
 1. Presentations
 
-1. Programming Money (by [Edgar ](Edmund)(/edmund edgar /))
+1. Programming Money (by [Edmund Edgar ](/edmund edgar /))
 Bitcoin is sometimes referred to as "programmable money". It has a built-in
 stack-based scripting language that can be used to require multiple
 signatures to spend money, lock money up in escrow contracts and more. This
@@ -16,7 +16,7 @@ talk will show you how transactions work, how to make them and what you can
 do with them.
 
 
-1. Lua scripting in Nginx (by [Monaco](Ariel)(/ariel monaco/))
+1. Lua scripting in Nginx (by [Ariel Monaco](/ariel monaco/))
 Lua is a very light, fast and powerful programming language.
 We'll cover how to build high-performance functionality embedding and
 running Lua scripts in the Nginx web server".

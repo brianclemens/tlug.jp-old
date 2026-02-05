@@ -13,8 +13,8 @@ title: Template - Meetings - Locations - Ikebukuro - Za Watami Ikebukuro-nishigu
 1-21-13 Nishi-Ikebukuro, Toshima-ku, Tokyo<br />
 [ [Info (In Japanese)](http://gourmet.yahoo.co.jp/0000978907/0009656095/) ]
 [ [map](http://gourmet.yahoo.co.jp/0000978907/0009656095/coupon/) ]<noinclude>
-[Za_Watami_Ikebukuro-nishiuchi-nanbanbiru-ten](/category/template/meetings/locations/ikebukuro/)
-[Ikebukuro:Za_Watami_Ikebukuro-nishiuchi-nanbanbiru-ten](/category/template/meetings/locations/)
-[Locations:Ikebukuro:Za_Watami_Ikebukuro-nishiuchi-nanbanbiru-ten](/category/template/meetings/)
-[Meetings:Locations:Ikebukuro:Za_Watami_Ikebukuro-nishiuchi-nanbanbiru-ten](/category/template/)
+*Za_Watami_Ikebukuro-nishiuchi-nanbanbiru-ten*
+*Ikebukuro:Za_Watami_Ikebukuro-nishiuchi-nanbanbiru-ten*
+*Locations:Ikebukuro:Za_Watami_Ikebukuro-nishiuchi-nanbanbiru-ten*
+*Meetings:Locations:Ikebukuro:Za_Watami_Ikebukuro-nishiuchi-nanbanbiru-ten*
 </noinclude>

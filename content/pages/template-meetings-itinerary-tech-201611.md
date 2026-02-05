@@ -8,11 +8,11 @@ title: Template - Meetings - Itinerary - Tech - 201611
 
 1. Presentations
 
-1. An Introduction to CoreOS (by [Middleton](Edward)(/edward middleton/))
+1. An Introduction to CoreOS (by [Edward Middleton](/edward middleton/))
 
 The presentation will cover the basic features and architecture of CoreOS then go into the setup of a simple CoreOS cluster.  There will be a brief introduction to the CoreOS sdk and a look at options for extending the base OS.
 
-1. Audio production on Linux (by [Kieckens](Andreas)(/andreas kieckens/))
+1. Audio production on Linux (by [Andreas Kieckens](/andreas kieckens/))
 
 For about six months now, Andreas has been self-studying the craft of audio production on Linux. During this presentation he will talk about some of the things he's learned so far. 
 

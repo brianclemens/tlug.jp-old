@@ -17,8 +17,8 @@ Esupasu Konseru Building 2F,<br /> 3-3, Yotsuya, Shinjuku-ku, Tokyo, 160-0004<br
 
 [ [Info](https://tabelog.com/en/tokyo/A1309/A130903/13216053/?pplan_id=70855036) ]
 [ [map](https://goo.gl/maps/jf2p6DMH5CQ2) ]<noinclude>
-[HOLIC](BURG)(/category/template/meetings/locations/yotsuya/)
-[HOLIC](Yotsuya:BURG)(/category/template/meetings/locations/)
-[HOLIC](Locations:Yotsuya:BURG)(/category/template/meetings/)
-[HOLIC](Meetings:Locations:Yotsuya:BURG)(/category/template/)
+*BURG HOLIC*
+*Yotsuya:BURG HOLIC*
+*Locations:Yotsuya:BURG HOLIC*
+*Meetings:Locations:Yotsuya:BURG HOLIC*
 </noinclude>

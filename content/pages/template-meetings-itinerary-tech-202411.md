@@ -13,7 +13,7 @@ title: Template - Meetings - Itinerary - Tech - 202411
 
 1. << Presentation (1) >>
 
-**"Asahi Linux on the Apple macbook"** By *[Horn](Christian)(/christian horn/)*
+**"Asahi Linux on the Apple macbook"** By *[Christian Horn](/christian horn/)*
 - Whoami, what I use the Mac for, mainly at work
 - What's Asahi Linux?
 - My Pros/cons list of deciding for a Mac w/ Asahi Linux
@@ -28,7 +28,7 @@ Short break
 
 1. << Presentation (2) >>
 
-**"Measuring power consumption on Linux"** By *[Horn](Christian)(/christian horn/)*
+**"Measuring power consumption on Linux"** By *[Christian Horn](/christian horn/)*
 
 ** Theory**
 - What is pmda-denki, why was it written?
@@ -45,6 +45,6 @@ Short break
 1. News about Linux/Open Source, general announcements, Q&A
 1. Auction (bring any gear that would would like to donate to TLUG)
 <noinclude>
-[Itinerary](/category/template/meetings/)
-[Meetings:Itinerary](/category/template/)
+*Itinerary*
+*Meetings:Itinerary*
 </noinclude>

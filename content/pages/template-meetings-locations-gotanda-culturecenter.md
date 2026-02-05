@@ -18,8 +18,8 @@ tel: 03-3492-2451 <br>
 
 [(in Japanese)](http://www.sonicweb-asp.jp/shinagawa/map?theme=th_15#pos=139.716619,35.6226453&feature=19005::::10)
 <noinclude>
-[CultureCenter](/category/template/meetings/locations/gotanda/)
-[Gotanda:CultureCenter](/category/template/meetings/locations/)
-[Locations:Gotanda:CultureCenter](/category/template/meetings/)
-[Meetings:Locations:Gotanda:CultureCenter](/category/template/)
+*CultureCenter*
+*Gotanda:CultureCenter*
+*Locations:Gotanda:CultureCenter*
+*Meetings:Locations:Gotanda:CultureCenter*
 </noinclude>

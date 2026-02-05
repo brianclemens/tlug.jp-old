@@ -30,6 +30,6 @@ We will be running an Open Space style meeting[1].  Our theme for this gathering
 1. << CLOSING >>
 
 <noinclude>
-[Itinerary](/category/template/meetings/)
-[Meetings:Itinerary](/category/template/)
+*Itinerary*
+*Meetings:Itinerary*
 </noinclude>

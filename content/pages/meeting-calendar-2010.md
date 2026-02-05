@@ -65,4 +65,4 @@ bonenkai
 <br>
 
 
-{{Meetings:Categories|year=Calendar|month=Calendar}}
+*Meetings:Categories*

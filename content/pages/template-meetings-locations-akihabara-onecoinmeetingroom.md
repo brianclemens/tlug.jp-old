@@ -19,8 +19,8 @@ Chiyoda-ku, Tokyo 101-0032
 [Directions(Google)](https://goo.gl/maps/GjYcgWh3jCQ2)
 
 <noinclude>
-[OneCoinMeetingRoom](/category/template/meetings/locations/akihabara/)
-[Akihabara:OneCoinMeetingRoom](/category/template/meetings/locations/)
-[Locations:Akihabara:OneCoinMeetingRoom](/category/template/meetings/)
-[Meetings:Locations:Akihabara:OneCoinMeetingRoom](/category/template/)
+*OneCoinMeetingRoom*
+*Akihabara:OneCoinMeetingRoom*
+*Locations:Akihabara:OneCoinMeetingRoom*
+*Meetings:Locations:Akihabara:OneCoinMeetingRoom*
 </noinclude>

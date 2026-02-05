@@ -8,7 +8,7 @@ title: Template - Meetings - Itinerary - Tech - 201507
 
 1. Presentations
 
-1. Getting Started with Raspberry Pi 2 (by [Ohta](Masafumi)(/masafumi ohta/))
+1. Getting Started with Raspberry Pi 2 (by [Masafumi Ohta](/masafumi ohta/))
 Ohta-san will recap the presentation he delivered at LinuxCon Japan 2015.
 He will speak about 'why RPi2 was suddenly released' with insights he
 gained in his trip to the UK, where he met Eben Upton at the Pi-Tower
@@ -18,7 +18,7 @@ He will also talk about some of the new OSes working on RPi 2 (Window IoT
 and others), and give answers to questions he was asked by Linaro and
 SUSE staff at LinuxCon.
 
-1. Full network virtualization with OpenVNet 0.7 (by [Kieckens](Andreas)(/andreas kieckens/))
+1. Full network virtualization with OpenVNet 0.7 (by [Andreas Kieckens](/andreas kieckens/))
 After two years of development, Andreas and his colleagues have released 
 OpenVNet 0.7 which allows you to fully virtualize networks using 
 OpenFlow. During this presentation he will explain what exactly network 

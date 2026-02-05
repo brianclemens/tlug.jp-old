@@ -9,5 +9,5 @@ redirect: meetings:2010:01
 title: Meetings - 2010 - 0
 ---
 
-{{Category:Meetings}}
-{{Meetings:Categories|year=Current|month=Current}}
+*Category:Meetings*
+*Meetings:Categories*

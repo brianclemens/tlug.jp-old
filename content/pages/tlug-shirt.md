@@ -17,20 +17,20 @@ If you would like a t-shirt in the second round add your name to the list.
 
 1. List
 
-1. [Middleton](Edward)(/edward middleton/) (large)
-1. [Anisimov](Alexei)(/user/realaaa/) (middle)
-1. [Sampson](Curt)(/user/cjs/) (large)
+1. [Edward Middleton](/edward middleton/) (large)
+1. [Alexei Anisimov](/user/realaaa/) (middle)
+1. [Curt Sampson](/user/cjs/) (large)
 1. Travis Cardwell (medium)
-1. [Horn](Christian)(/user/chhorn/) (middle)
+1. [Christian Horn](/user/chhorn/) (middle)
 1. Leo Howell (large)
-1. [Gomez](Felipe)(/user/freaksquirrel/) (medium)
+1. [Felipe Gomez](/user/freaksquirrel/) (medium)
 1. Marco Toldo (large)
 1. Ivan (vanzaj) (medium)
 1. Akihiro Moriguchi (medium)
-1. [Ramaley](Dan)(/user/dramaley/) (large)
-1. [Maurice](J.)(/user/jmaurice/) (medium)
-1. [Simkins](Greg)(/user/gregsim/) (extra large)
-1. [Burati](Johan)(/user/johan burati/) (XXL)
+1. [Dan Ramaley](/user/dramaley/) (large)
+1. [J. Maurice](/user/jmaurice/) (medium)
+1. [Greg Simkins](/user/gregsim/) (extra large)
+1. [Johan Burati](/user/johan burati/) (XXL)
 
 1. Other designs we consider
 

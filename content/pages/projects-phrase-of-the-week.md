@@ -15,9 +15,9 @@ At the end of the week, the editors will compile the results and post them to th
 
 1. Status
 - Tue, 31 Jul 2007 19:49:58 +0900: Proposed by Ken Burling
-- Fri, 3 Aug 2007 15:48:56 +0900: Feedback from Delyana Burdjeva-Glover, technical suggestions from [Glover](Josh)(/user/jglover/)
+- Fri, 3 Aug 2007 15:48:56 +0900: Feedback from Delyana Burdjeva-Glover, technical suggestions from [Josh Glover](/user/jglover/)
 - Tue, 7 Aug 2007 12:04:45 +0900: Formal proposal and wiki, RSS drafts by Ken Burling
-- Mon, 20 Aug 2007 14:50:00 +0900: Initial wiki draft by [Glover](Josh)(/user/jglover/)
+- Mon, 20 Aug 2007 14:50:00 +0900: Initial wiki draft by [Josh Glover](/user/jglover/)
 
 1. RSS
  <?xml version="1.0"?>
@@ -45,4 +45,4 @@ At the end of the week, the editors will compile the results and post them to th
  </rss>
 
 1. See Also
-[of the Week](Phrase)(/category/projects/)
+*Phrase of the Week*

@@ -8,7 +8,7 @@ title: Template - Meetings - Itinerary - Tech - 201604
 
 1. Presentations
 
-1. How things are routed on the Internet (by [Sampson](Curt)(/curt sampson/))
+1. How things are routed on the Internet (by [Curt Sampson](/curt sampson/))
 Do you want to know where and how your packets are routed across the Internet? Curt will explain this, based on actual data you bring in.
 
 Before you come to the meeting, run
@@ -19,7 +19,7 @@ and we will go through the list of names and IP addresses that come up and compa
 Depending on interest, we might delve quite deep in to the details of either or both of Internet routing and how your host processes packets internally once they've been received.
 
 
-1. Ethereum: The unstoppable decentralized world computer that's going to kill us all (by [Edgar](Edmund)(/edmund edgar/))
+1. Ethereum: The unstoppable decentralized world computer that's going to kill us all (by [Edmund Edgar](/edmund edgar/))
 Edmund will talk about what Ethereum is and how you can use it to write fully-verifiable decentralized applications that don't need a server and can't be shut down.
 
 https://www.ethereum.org/

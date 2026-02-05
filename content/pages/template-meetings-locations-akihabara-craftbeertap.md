@@ -13,8 +13,8 @@ title: Template - Meetings - Locations - Akihabara - CraftBeerTap
 Yodobashi AKIBA building 8F, 1-1, Kandahanaokacho, Chiyoda-ku, Tokyo, 101-0028<br />
 [ [Info](https://gurunavi.com/en/a033617/rst/) ]
 [ [map](https://goo.gl/maps/xHoBqRLVwJT2) ]<noinclude>
-[CraftBeerTap](/category/template/meetings/locations/akihabara/)
-[Akihabara:CraftBeerTap](/category/template/meetings/locations/)
-[Locations:Akihabara:CraftBeerTap](/category/template/meetings/)
-[Meetings:Locations:Akihabara:CraftBeerTap](/category/template/)
+*CraftBeerTap*
+*Akihabara:CraftBeerTap*
+*Locations:Akihabara:CraftBeerTap*
+*Meetings:Locations:Akihabara:CraftBeerTap*
 </noinclude>

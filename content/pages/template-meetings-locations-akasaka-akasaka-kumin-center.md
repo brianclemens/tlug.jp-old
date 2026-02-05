@@ -13,8 +13,8 @@ title: Template - Meetings - Locations - Akasaka - Akasaka Kumin Center
 4-18-13 Akasaka, Plaza Mikado, Minato-ku, Tokyo<br />
 [ [homepage](http://www.minatocity-kissport.or.jp/sisetu/akasaka/akasaka.htm) ]
 <noinclude>
-[Akasaka_Kumin_Center](/category/template/meetings/locations/akasaka/)
-[Akasaka:Akasaka_Kumin_Center](/category/template/meetings/locations/)
-[Locations:Akasaka:Akasaka_Kumin_Center](/category/template/meetings/)
-[Meetings:Locations:Akasaka:Akasaka_Kumin_Center](/category/template/)
+*Akasaka_Kumin_Center*
+*Akasaka:Akasaka_Kumin_Center*
+*Locations:Akasaka:Akasaka_Kumin_Center*
+*Meetings:Locations:Akasaka:Akasaka_Kumin_Center*
 </noinclude>

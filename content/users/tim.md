@@ -4,7 +4,7 @@ draft: false
 title: User - Tim
 ---
 
-[Image:Tim.jpg](/image/tim.jpg/)
+![Tim.jpg](/images/tim.jpg)
 
 1. General
 
@@ -12,7 +12,7 @@ First started using computers back around '81, on Apple II Plus', with Apple DOS
 
 Over the years have used many different systems including early DEC  [PDP](http://en.wikipedia.org/wiki/Programmed_Data_Processor), Gould and [Honeywell](http://en.wikipedia.org/wiki/Honeywell) DPS-6 systems.  Not to mention all manner of industrial systems, TDC 3000, SCAN 3000, IPC 620, MA500, MX200, EST555Z.
 
-[3000](TDC)(/image/tdcs3000lcn.jpg/)
+[TDC 3000](/image/tdcs3000lcn.jpg/)
 
 Started using Linux (circa 1996) with RedHat on an old SPARCstation (SLC to be precise) and have mostly stayed with the RedHat related distros since.  These days (continuing in that vein) I tend to use CentOS, but on x86 hardware.  Have been known to dabble with Debian and NetBSD too.
 

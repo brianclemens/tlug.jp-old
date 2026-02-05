@@ -67,4 +67,4 @@ I use HP printers both at work and home.  The generic laserjet and deskjet drive
 
 
 
-[Printing](/category/japanese-and-linux-howto/)
+*Printing*

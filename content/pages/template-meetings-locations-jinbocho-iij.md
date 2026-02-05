@@ -16,8 +16,8 @@ Chiyoda-ku, Tokyo 101-0051
 
 [Map](http://www.iij.ad.jp/en/company/about/map/head-office.html)
 <noinclude>
-[IIJ](/category/template/meetings/locations/jinbocho/)
-[Jinbocho:IIJ](/category/template/meetings/locations/)
-[Locations:Jinbocho:IIJ](/category/template/meetings/)
-[Meetings:Locations:Jinbocho:IIJ](/category/template/)
+*IIJ*
+*Jinbocho:IIJ*
+*Locations:Jinbocho:IIJ*
+*Meetings:Locations:Jinbocho:IIJ*
 </noinclude>

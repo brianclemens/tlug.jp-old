@@ -8,15 +8,15 @@ title: TlugWiki - Wiki Topics
 
 - File Uploads
 ** [Al](/user/hoanga/) requests: Do we allow file uploads to the wiki?  It's turned off
-** [Josh](/user/jmglov/) answers: a big yessir to this!
+** Josh answers: a big yessir to this!
 - SSL - Currently we don't have https so all authentication to this wiki is over plain http.  Should we use https?
 ** [Al](/user/hoanga/): Can someone create a SSL configuration for Apache?  Out of the wikimaster's hands :)
-** [Josh](/user/jmglov/) answers: I don't see a burning need for SSL
+** Josh answers: I don't see a burning need for SSL
 - What official pages do we need?
 ** [jmglov](/user/jmglov/) suggests:
 *** Meetings pages?
 *** Officers page
-** [Edward](/user/edward/) answer: wouldn't this stuff be better on the main page that way we could solve the rss issues as well.
+** Edward answer: wouldn't this stuff be better on the main page that way we could solve the rss issues as well.
 - RSS
 ** What type of RSS?
 ** Look at the top of [Special:Recentchanges](/special/recentchanges/). It has Atom and RSS already

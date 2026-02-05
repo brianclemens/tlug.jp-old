@@ -6,12 +6,12 @@ draft: false
 title: Linux Help - QND-Guides - MRTG
 ---
 
-Author: [Glover](Josh)(/user/jmglov/)
+Author: [Josh Glover](/user/jmglov/)
 
 1. Do You Have MRTG?
 In a shell, type:
  which mrtg
-This should return the path to *mrtg*, probably */usr/bin/mrtg*. If it is found, continue to [MRTG](#Configuring)(/#configuring mrtg/). If it is not found, see [Linux_Help:QND-Guides:Finding_and_Installing_Software](/linux-help/qnd-guides/finding-and-installing-software/)
+This should return the path to *mrtg*, probably */usr/bin/mrtg*. If it is found, continue to [#Configuring MRTG](/#configuring mrtg/). If it is not found, see [Linux_Help:QND-Guides:Finding_and_Installing_Software](/linux-help/qnd-guides/finding-and-installing-software/)
 
 1. Configuring MRTG
 To generate an *mrtg.cfg* file, you can use the *cfgmaker* program (included in the MRTG distribution). In a shell, type:
@@ -38,10 +38,10 @@ This will bring up root's crontab in a text editor (corresponding to your *EDITO
  # Grab data for MRTG every five minutes
  */5 * * * * /usr/bin/mrtg /etc/mrtg.cfg
 
-This will run the MRTG script every five minutes, using the config file that you created in [MRTG](#Configuring)(/#configuring mrtg/). If your *mrtg* script is installed in a difference place (type <pre>which mrtg</pre> to find out), replace the */usr/bin/mrtg* with that path. Likewise, if you saved your config to a file other than */etc/mrtg.cfg*, substitute that file above.
+This will run the MRTG script every five minutes, using the config file that you created in [#Configuring MRTG](/#configuring mrtg/). If your *mrtg* script is installed in a difference place (type <pre>which mrtg</pre> to find out), replace the */usr/bin/mrtg* with that path. Likewise, if you saved your config to a file other than */etc/mrtg.cfg*, substitute that file above.
 
 1. View the Results
-Congratulations, you should be done. Fire up a web browser and point it at the directory (or URL, if you are running a webserver and you chose to put your MRTG data in its documents tree) that you specified in [MRTG](#Configuring)(/#configuring mrtg/). You should see plenty of colourful graphs.
+Congratulations, you should be done. Fire up a web browser and point it at the directory (or URL, if you are running a webserver and you chose to put your MRTG data in its documents tree) that you specified in [#Configuring MRTG](/#configuring mrtg/). You should see plenty of colourful graphs.
 
 1. References
 1. For more information on MRTG, see:
@@ -69,4 +69,4 @@ The *mrtg-2.9.17-3.i386.rpm* RPM depends on the *gd-devel* package for generatin
 1. In a shell, type: <pre>rpm -q libjpeg</pre> If the *libjpeg* package is found, move onto the next step. If not, download *libjpeg-6b-19.i386.rpm*. In a shell, change to the directory where you downloaded the RPM and type: <pre>su - root&#13;rpm -Uvh libjpeg-6b-19.i386.rpm</pre> If the RPM installs with no problems, move onto the next step. If not, turn to your LUG.
 1. Download *gd-1.8.4-4.i386.rpm* and *gd-devel-1.8.4-4.i386.rpm* files. In a shell, change to the directory where you downloaded the RPMs and type: <pre>su - root&#13;rpm -Uvh gd-1.8.4-4.i386.rpm gd-devel-1.8.4-4.i386.rpm</pre> If the RPMs install with no problems, return to Step 2 and try again. If not, turn to your LUG.
 
-[MRTG](/category/linux-help/qnd-guides/)
+*MRTG*

@@ -8,7 +8,7 @@ title: Template - Meetings - Itinerary - Tech - 201503
 
 1. Presentations
 
-1. An Exploration of Recursive Descent Parsing (by [Kowarsch](Benjamin)(/benjamin kowarsch/))
+1. An Exploration of Recursive Descent Parsing (by [Benjamin Kowarsch](/benjamin kowarsch/))
 
 This presentation will give a general overview of common parsing 
 techniques and examine RD parsing in further detail. In particular it 
@@ -18,7 +18,7 @@ RD parsers. It will also give a brief overview how to use ANTLRworks
 for grammar evaluation and troubleshooting. Finally it will introduce 
 an unnamed free open source script that generates publishing quality syntax diagrams.
 
-1. X-COM and its open source remakes (by [Kieckens](Andreas)(/andreas kieckens/))
+1. X-COM and its open source remakes (by [Andreas Kieckens](/andreas kieckens/))
 
 X-COM is an old DOS game that combines world-wide strategy with small squad
 turn-based tactics. It is not *too* famous, but people who've played it 

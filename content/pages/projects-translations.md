@@ -16,6 +16,6 @@ Every language will have a subproject page on Project:Translations:Language (es:
 The page of the subproject will be written in the language of the subproject.
 
 1. Status
-- 23:58, 7 September 2007 (JST) - Proposal of project by [Inoelloc](Ela)(/user/ela.inoelloc/)
+- 23:58, 7 September 2007 (JST) - Proposal of project by [Ela Inoelloc](/user/ela.inoelloc/)
 
-[Translations](/category/projects/)
+*Translations*

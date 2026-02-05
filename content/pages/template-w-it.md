@@ -6,14 +6,14 @@ draft: false
 title: Template - w - it
 ---
 
-<includeonly>[{{{1}}} (Wikipedia it)](http://it.wikipedia.org/wiki/{{{1}}})</includeonly><noinclude>
+<includeonly>[*{1*} (Wikipedia it)](http://it.wikipedia.org/wiki/*{1*})</includeonly><noinclude>
 Creates a link to the Italian Wikipedia.
 
-<nowiki>{{w:it|ciao}}</nowiki>
+<nowiki>*w:it*</nowiki>
 
 would produce:
 
-{{w:it|ciao}}
+*w:it*
 
-[w:it](/category/template/)
+*w:it*
 </noinclude>

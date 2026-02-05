@@ -16,8 +16,8 @@ tel 050 5445 7235<br />
 [ [Apple Maps](https://maps.apple.com/place?place-id=IBB82791F0A95A1D9) ]
 [ [Google Maps](https://goo.gl/maps/9ejrTuhJ2oQLeHmV6) ]
 <noinclude>
-[Daikanyama:Zest_cantina](/category/template/meetings/locations/daikanyama/)
-[Daikanyama:Zest_cantina](/category/template/meetings/locations/)
-[Locations:Daikanyama:Zest_cantina](/category/template/meetings/)
-[Meetings:Locations:Daikanyama:Zest_cantina](/category/template/)
+*Daikanyama:Zest_cantina*
+*Daikanyama:Zest_cantina*
+*Locations:Daikanyama:Zest_cantina*
+*Meetings:Locations:Daikanyama:Zest_cantina*
 </noinclude>

@@ -19,7 +19,7 @@ This will work in most versions of Linux.  This quick guide is aimed towards a L
  export GTK_IM_MODULE="scim"
  export QT_IM_MODULE="scim"
  scim -d
-(See [#Environment](/#environment/), [#Locale](/#locale/) and [Scim](#Starting)(/#starting scim/))
+(See [#Environment](/#environment/), [#Locale](/#locale/) and [#Starting Scim](/#starting scim/))
 *Make sure you have Japanese fonts (See [#Fonts](/#fonts/))
 
 *Make sure you have a ja_JP UTF-8 locale (See [#Locale](/#locale/))
@@ -29,7 +29,7 @@ terminal.  (See [#Terminals](/#terminals/))
 
 *Log out and log back in
 *Start scim with Ctrl+space 
-*Type in something in romaji, it will appear as hiragana (See [scim](#Using)(/#using scim/))
+*Type in something in romaji, it will appear as hiragana (See [#Using scim](/#using scim/))
 *Hit the space bar to bring up kanji selection
 *Navigate the kanji selection with the arrow keys
 *Hit space to select your kanji
@@ -188,14 +188,14 @@ Once again, the quick start.
 - Install fonts
  cd /usr/ports/japanese/kochi-ttfonts
  make install clean
-- If you boot up into graphical mode, add the following to your shell's profile (The syntax here is for Bourne style shells, sh, bash, zsh and ksh.)  If booting up into text mode, then add the lines to your .xinitrc above the line which calls your window manager as explained above in [#Environment](/#environment/) [#Locale](/#locale/) and [Scim](#Starting)(/#starting scim/)
+- If you boot up into graphical mode, add the following to your shell's profile (The syntax here is for Bourne style shells, sh, bash, zsh and ksh.)  If booting up into text mode, then add the lines to your .xinitrc above the line which calls your window manager as explained above in [#Environment](/#environment/) [#Locale](/#locale/) and [#Starting Scim](/#starting scim/)
  export XMODIFIERS='@im=SCIM'
  export LC_CTYPE=ja_JP.UTF-8
  export GTK_IM_MODULE="scim"
  export QT_IM_MODULE="scim"
  scim -d
 
-The rest is the same as [Super Quick Version](#The)(/#the super quick version/) for Linux.
+The rest is the same as [#The Super Quick Version](/#the super quick version/) for Linux.
 The only real difference here is that while most versions of Linux use ja_JP.utf8, FreeBSD uses ja_JP.UTF-8.  As previously mentioned, when setting LC_CTYPE, case is important.  
 
 1. NetBSD
@@ -243,4 +243,4 @@ After that scim-anthy can be used in the same way it's used with Linux or FreeBS
 
 
 
-[Using_scim-anthy](/category/japanese-and-linux-howto/)
+*Using_scim-anthy*

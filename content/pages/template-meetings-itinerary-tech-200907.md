@@ -12,7 +12,7 @@ title: Template - Meetings - Itinerary - Tech - 200907
 1. Presentations
 
 1. << Presentation (1) >>
-**"All your base are belong to us"** by *[Pauley](Marty)(/marty pauley/)*
+**"All your base are belong to us"** by *[Marty Pauley](/marty pauley/)*
 
 Marty Pauley will talk about network security.  In Marty's
 words
@@ -27,7 +27,7 @@ words
 Short break *(maybe)*
 
 1. << Presentation (2) >>
-**"Running a NAS with OpenSolaris ZFS"** by *[Sullivan](Michael)(/michael sullivan/)*
+**"Running a NAS with OpenSolaris ZFS"** by *[Michael Sullivan](/michael sullivan/)*
 
 Michael will give an explanation and demonstration of the following:
 
@@ -44,6 +44,6 @@ Michael will give an explanation and demonstration of the following:
 1. News about Linux/Open Source, general announcements, Q&A
 1. Auction (bring any gear that would would like to donate to TLUG)
 <noinclude>
-[Itinerary](/category/template/meetings/)
-[Meetings:Itinerary](/category/template/)
+*Itinerary*
+*Meetings:Itinerary*
 </noinclude>

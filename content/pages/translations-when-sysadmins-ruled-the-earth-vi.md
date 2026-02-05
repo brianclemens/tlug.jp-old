@@ -1172,8 +1172,8 @@ Felix đi ra cửa và bước trong đêm tối. Sau lưng anh, chiếc máy ph
 [Llddhh](/user/llddhh/) 20:14, 2 August 2007 (JST)
 
 1. See Also
-- [Sysadmins Ruled the Earth:en](Translations:When)(/translations/when sysadmins ruled the earth/en/)
-- [Sysadmins Ruled the Earth:ja](Translations:When)(/translations/when sysadmins ruled the earth/ja/)
-- [Sysadmins Ruled the Earth:vi](Translations:When)(/translations/when sysadmins ruled the earth/vi/)
-- [Sysadmins Ruled the Earth:fr](Translations:When)(/translations/when sysadmins ruled the earth/fr/)
-[Category:Translations](/category/translations/)
+- [Translations:When Sysadmins Ruled the Earth:en](/translations/when sysadmins ruled the earth/en/)
+- [Translations:When Sysadmins Ruled the Earth:ja](/translations/when sysadmins ruled the earth/ja/)
+- [Translations:When Sysadmins Ruled the Earth:vi](/translations/when sysadmins ruled the earth/vi/)
+- [Translations:When Sysadmins Ruled the Earth:fr](/translations/when sysadmins ruled the earth/fr/)
+*Category:Translations*

@@ -6,8 +6,8 @@ title: Japanese And Linux Howto
 
 - Japanese Input Systems
 ** A discussion on TLUG's ML on March's Software Design article about Japanese IMEs
-*** {{ML2|0702/msg00233.html|ML/0702/msg00233.html}}
-*** {{ML2|0703/msg00002.html|ML/0703/msg00002.html}}
+*** *ML2*
+*** *ML2*
 
 
 - Using the scim-anthy input method (and using uim-anthy on NetBSD)

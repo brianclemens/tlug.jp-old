@@ -6,7 +6,7 @@ title: Template - Meetings - Itinerary - Tech - 200103
 
 1. Topics
 1. Inside an Electronic Dictionary
-This months topic will be presented by [Breen](Jim)(/jim breen/) Visiting
+This months topic will be presented by [Jim Breen](/jim breen/) Visiting
 Professor, at the Institute for the Study of Languages and Cultures
 of Asia and Africa, Tokyo University of Foreign Studies, Japan.
 

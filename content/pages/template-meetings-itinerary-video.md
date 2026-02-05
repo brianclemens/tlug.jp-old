@@ -11,9 +11,9 @@ title: Template - Meetings - Itinerary - Video
 1. Video
 Weren't able to make it to the meeting? You can view the presentations on YouTube!
 
-{{{video}}}
+*{video*}
 <noinclude>
-[Video](/category/template/meetings/itinerary/)
-[Itinerary:Video](/category/template/meetings/)
-[Meetings:Itinerary:Video](/category/template/)
+*Video*
+*Itinerary:Video*
+*Meetings:Itinerary:Video*
 </noinclude>

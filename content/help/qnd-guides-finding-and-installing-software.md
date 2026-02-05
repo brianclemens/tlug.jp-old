@@ -7,7 +7,7 @@ title: Linux Help - QND-Guides - Finding and Installing Software
 ---
 
 1. Introduction
-As you will have noted from our [QND Guides](other)(//category/linux-help/qnd-guides/), they start with asking if you have the particular program, and have you start by typing which <program_name>
+As you will have noted from our [other QND Guides](//category/linux-help/qnd-guides/), they start with asking if you have the particular program, and have you start by typing which <program_name>
 
 As each distribution has its own way of installing software, this guide is intended as a pointer to installing software in the distributions with which we are familiar.
 
@@ -106,4 +106,4 @@ If Step 1 still fails, then something subtle is probably wrong. Try emailing you
 
 Now that you're done with this, you can go back to the QND guide that you were reading and continue with what is usually step 3.
 
-[Installing_Software](/category/linux-help/qnd-guides/)
+*Installing_Software*

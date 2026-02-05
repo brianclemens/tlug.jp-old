@@ -18,8 +18,8 @@ Shibuya-ku, Tokyo 150-0011
 
 
 <noinclude>
-[Groupon](/category/template/meetings/locations/shibuya/)
-[Shibuya:Groupon](/category/template/meetings/locations/)
-[Locations:Shibuya:Groupon](/category/template/meetings/)
-[Meetings:Locations:Shibuya:Groupon](/category/template/)
+*Groupon*
+*Shibuya:Groupon*
+*Locations:Shibuya:Groupon*
+*Meetings:Locations:Shibuya:Groupon*
 </noinclude>

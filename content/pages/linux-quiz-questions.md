@@ -21,7 +21,7 @@ Use the <tt>-a</tt> option:
  $ ls -a
 
 ; Contributor(s)
-: [Travis](/user/travis/)
+: Travis
 
 1. Dash Files
 
@@ -34,8 +34,8 @@ Use <tt>--</tt> to tell commands where options end:
  $ rm ./-r
 
 ; Contributor(s)
-: [Bruno](/user/bruno/)
-: [Mattia](/user/mattia/)
+: Bruno
+: Mattia
 
 ; Quiz(es)
 : [Meetings:2014:05](/meetings/2014/05/)
@@ -51,7 +51,7 @@ Use backslashes to escape such characters:
  $ rm '*' '?'
 
 ; Contributor(s)
-: [Daniel](/user/daniel/)
+: Daniel
 
 ; Quiz(es)
 : [Meetings:2014:05](/meetings/2014/05/)
@@ -73,7 +73,7 @@ It displays hidden files with at least two characters after the dot:
 </code>
 
 ; Contributor(s)
-: [Bruno](/user/bruno/)
+: Bruno
 
 ; Quiz(es)
 : [Meetings:2014:05](/meetings/2014/05/)
@@ -98,8 +98,8 @@ Use <tt>-exec chmod</tt>:
 What is the difference between "<tt>+</tt>" and "<tt>\;</tt>" notations? Why would you choose one over the other?
 
 ; Contributor(s)
-: [Travis](/user/travis/)
-: [Bruno](/user/bruno/)
+: Travis
+: Bruno
 
 ; Quiz(es)
 : [Meetings:2014:05](/meetings/2014/05/)
@@ -115,7 +115,7 @@ Q: What do permissions <tt>-rwsr-x---</tt> signify?
 Q: When would permissions like this be useful?
 
 ; Contributor(s)
-: [Travis](/user/travis/)
+: Travis
 
 ; Quiz(es)
 : [Meetings:2014:05](/meetings/2014/05/)
@@ -131,7 +131,7 @@ Q: What do permissions <tt>-rwxr-sr-x</tt> signify?
 Q: When would permissions like this be useful?
 
 ; Contributor(s)
-: [Travis](/user/travis/)
+: Travis
 
 ; Quiz(es)
 : [Meetings:2014:05](/meetings/2014/05/)
@@ -147,7 +147,7 @@ Q: What do permissions <tt>drwxrwsr-x</tt> signify?
 Q: When would permissions like this be useful?
 
 ; Contributor(s)
-: [Travis](/user/travis/)
+: Travis
 
 ; Quiz(es)
 : [Meetings:2014:05](/meetings/2014/05/)
@@ -163,7 +163,7 @@ Q: What do permissions <tt>drwxrwxrwt</tt> signify?
 Q: When would permissions like this be useful?
 
 ; Contributor(s)
-: [Travis](/user/travis/)
+: Travis
 
 ; Quiz(es)
 : [Meetings:2014:05](/meetings/2014/05/)
@@ -186,7 +186,7 @@ Alternatively:
  $ sudo bash -c 'echo tlug > /etc/hostname'
 
 ; Contributor(s)
-: [Travis](/user/travis/)
+: Travis
 
 ; Quiz(es)
 : [Meetings:2014:05](/meetings/2014/05/)
@@ -202,7 +202,7 @@ Q: How and when could <tt>rm</tt> not free disk space?
 - The space should be freed when the process finishes.
 
 ; Contributor(s)
-: [Bruno](/user/bruno/)
+: Bruno
 
 ; Quiz(es)
 : [Meetings:2014:05](/meetings/2014/05/)
@@ -220,7 +220,7 @@ Q: What is the difference between <tt>ln</tt> and <tt>ln -s</tt>?
 Q: When would you use each type of link?
 
 ; Contributor(s)
-: [Bruno](/user/bruno/)
+: Bruno
 
 ; Quiz(es)
 : [Meetings:2014:05](/meetings/2014/05/)
@@ -249,8 +249,8 @@ Q: What are doing exactly the following lines?
  cat ${TMPFILE}
 
 ; Contributor(s)
-: [Travis](/user/travis/)
-: [Bruno](/user/bruno/)
+: Travis
+: Bruno
 
 ; Quiz(es)
 : [Meetings:2014:05](/meetings/2014/05/)
@@ -278,7 +278,7 @@ Q: Why use named pipes?
 - Use more than one pipe without using temporary files
 
 ; Contributor(s)
-: [Travis](/user/travis/)
+: Travis
 
 ; Quiz(es)
 : [Meetings:2014:05](/meetings/2014/05/)
@@ -301,7 +301,7 @@ Q: What if that doesn't work?
  $ kill -9 $PID  # sends KILL signal to $PID
 
 ; Contributor(s)
-: [Travis](/user/travis/)
+: Travis
 
 ; Quiz(es)
 : [Meetings:2014:05](/meetings/2014/05/)
@@ -320,7 +320,7 @@ Use <tt>fuser</tt> to show which processes use the filesystem:
  $ fuser -v -m /mnt/stick
 
 ; Contributor(s)
-: [Travis](/user/travis/)
+: Travis
 
 ; Quiz(es)
 : [Meetings:2014:05](/meetings/2014/05/)
@@ -349,8 +349,8 @@ Send a <tt>SIGCHLD</tt> signal to the parent process:
 If that does not work, the parent process must be killed.
 
 ; Contributor(s)
-: [Travis](/user/travis/)
-: [Bruno](/user/bruno/)
+: Travis
+: Bruno
 
 1. Substitution
 
@@ -365,7 +365,7 @@ Q: What does the following do (bash)?
 - The <tt><()</tt> commands are run in parallel, managed by the OS.
 
 ; Contributor(s)
-: [Travis](/user/travis/)
+: Travis
 
 ; Quiz(es)
 : [Meetings:2014:05](/meetings/2014/05/)
@@ -388,7 +388,7 @@ Q: How can you determine which program is making your fiber-modem blink?
  $ netstat -pt
 
 ; Contributor(s)
-: [Travis](/user/travis/)
+: Travis
 
 ; Reference(s)
 : http://www.danielmiessler.com/study/lsof/
@@ -403,4 +403,4 @@ Q: If your terminal bell works, what standard utilities can you use to get an al
  | sed 's/^/\a/'
 
 ; Contributor(s)
-: [Travis](/user/travis/)
+: Travis

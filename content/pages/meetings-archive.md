@@ -10,5 +10,5 @@ The old pre-wiki meeting archive, from 1994 thru' to the non-wiki meetings of 20
 
 [Meeting Archive](http://www.tlug.jp/meeting.php)
 
-{{Category:Meetings}}
-{{Meetings:Categories|year=Archive|month=Archive}}
+*Category:Meetings*
+*Meetings:Categories*

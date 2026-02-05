@@ -6,7 +6,7 @@ draft: false
 title: Linux Help - QND-Guides - Creating and Applying diff-style Patches
 ---
 
-Author: [Glover](Josh)(/user/jmglov/)
+Author: [Josh Glover](/user/jmglov/)
 
 1. Creating Patches with diff
 In a shell, change to the directory where the file you wish to make a patch for is located. Copy the original file (before your edits) to the same directory (you **did** make a backup copy of it before you edited it, right?). Now, type in the shell:
@@ -21,12 +21,12 @@ Here is a concrete example of creating a patch against the vanilla Linux kernel'
  diff -uNr linux-2.4.19 linux-2.4.19-my_version \
    >patch.linux-2.4.19-my_version
 
-That is all there is to creating patches with diff. Move on to [Patches with Patch](#Applying)(/#applying patches with patch/) to see how to apply them with patch.
+That is all there is to creating patches with diff. Move on to [#Applying Patches with Patch](/#applying patches with patch/) to see how to apply them with patch.
 
 1. Applying Patches with Patch
 Copy the patch that you generated in Step 2 to the directory containing the file to which you want to apply the patch. Now, type in your shell:
  patch <patch_file
-where *patch_file* is the filename of the patch file. Note that the filename of the file to be patched must be the same as it was in [Patches with diff](#Creating)(/#creating patches with diff/).
+where *patch_file* is the filename of the patch file. Note that the filename of the file to be patched must be the same as it was in [#Creating Patches with diff](/#creating patches with diff/).
 
 If you want to apply a patch to a whole directory tree, add a -p1 to your patch command:
  patch -p1 <patch_file
@@ -42,4 +42,4 @@ For more information on diff and patch, see:
 - http://www.gnu.org/software/diffutils/diffutils.html
 - http://www.gnu.org/manual/diffutils/html_mono/diff.html
 
-[Patches](/category/linux-help/qnd-guides/)
+*Patches*

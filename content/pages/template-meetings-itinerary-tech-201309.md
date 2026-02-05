@@ -8,7 +8,7 @@ title: Template - Meetings - Itinerary - Tech - 201309
 
 1. Presentations
 
-1. Running Android on the Beagle Bone Black (BBB) (by [Elenkov](Nikolay)(/nikolay elenkov/))
+1. Running Android on the Beagle Bone Black (BBB) (by [Nikolay Elenkov](/nikolay elenkov/))
 This talk will introduce the BBB development board and
 	   describe some of the steps required to run Android 4.2 using
 	   the 3.8 kernel on it. It will then briefly introduce what
@@ -16,7 +16,7 @@ This talk will introduce the BBB development board and
 	   a (more-or-less) fully functional touch screen device
 	   with wireless connectivity.
 
-1. SOAP APIs fromGo (by [Middleton](Edward)(/edward middleton/))
+1. SOAP APIs fromGo (by [Edward Middleton](/edward middleton/))
 
 1. nijikai
 After the presentations we will go for drinks at Wara-Wara Hanzomon

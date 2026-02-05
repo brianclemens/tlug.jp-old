@@ -6,14 +6,14 @@ draft: false
 title: Template - man
 ---
 
-<code>[man {{{1}}} {{{2}}}](http://www.rt.com/man/{{{2}}}.{{{1}}}.html)</code><noinclude>
+<code>[man *{1*} *{2*}](http://www.rt.com/man/*{2*}.*{1*}.html)</code><noinclude>
 Creates a link to the specified Unix man page in the specified section.
 
-<nowiki>{{man|1|ps}}</nowiki>
+<nowiki>*man*</nowiki>
 
 would produce:
 
-{{man|1|ps}}
+*man*
 
-[man](/category/template/)
+*man*
 </noinclude>

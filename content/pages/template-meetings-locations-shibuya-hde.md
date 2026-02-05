@@ -15,8 +15,8 @@ Shibuya-ku, Tokyo<br />
 [ [map](http://www.hde.co.jp/information/map/) ]
 [ [details](/meetings/locations/shibuya/hde/) ]
 <noinclude>
-[Amazon](/category/template/meetings/locations/hde/)
-[HDE:Amazon](/category/template/meetings/locations/)
-[Locations:HDE:Amazon](/category/template/meetings/)
-[Meetings:Locations:HDE:Amazon](/category/template/)
+*Amazon*
+*HDE:Amazon*
+*Locations:HDE:Amazon*
+*Meetings:Locations:HDE:Amazon*
 </noinclude>

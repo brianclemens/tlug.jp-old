@@ -10,7 +10,7 @@ title: Template - Meetings - Itinerary - Title
 
 1. Itinerary
 <noinclude>
-[Title](/category/template/meetings/itinerary/)
-[Itinerary:Title](/category/template/meetings/)
-[Meetings:Itinerary:Title](/category/template/)
+*Title*
+*Itinerary:Title*
+*Meetings:Itinerary:Title*
 </noinclude>

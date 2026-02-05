@@ -11,9 +11,9 @@ title: Template - Meetings - Itinerary - Tech - 200807
 1. Presentations
 
 1. << Presentation (1) >>
-**"Reading Felica cards from Linux/BSD"** by *[Kotthoff](Lars)(/lars kotthoff/)*
+**"Reading Felica cards from Linux/BSD"** by *[Lars Kotthoff](/lars kotthoff/)*
 
-This month, [Kotthoff](Lars)(/lars kotthoff/) will be explaining how to use libpasori[[1](http://libpasori.sourceforge.jp/)] to
+This month, [Lars Kotthoff](/lars kotthoff/) will be explaining how to use libpasori[[1](http://libpasori.sourceforge.jp/)] to
 read Felica cards from Linux.  He will also demonstrate a Ruby
 application he wrote to read Suica/Pasmo cards and display information
 about the last 20 transactions[[2](http://www.larsko.org/PasoriRuby)].
@@ -27,9 +27,9 @@ Short break *(maybe)*
 
 1. << Presentation (2) >>
 
-**"Happy Tracing with DTrace"** by *[Kato](Hisayoshi)(/hisayoshi kato/)*
+**"Happy Tracing with DTrace"** by *[Hisayoshi Kato](/hisayoshi kato/)*
 
-Our second speaker, [Kato](Hisayoshi)(/hisayoshi kato/) will give an overview of DTrace[[1](http://opensolaris.org/os/community/dtrace/)][[2](http://www.sun.com/bigadmin/content/dtrace/)][[3](http://en.wikipedia.org/wiki/DTrace)].  He
+Our second speaker, [Hisayoshi Kato](/hisayoshi kato/) will give an overview of DTrace[[1](http://opensolaris.org/os/community/dtrace/)][[2](http://www.sun.com/bigadmin/content/dtrace/)][[3](http://en.wikipedia.org/wiki/DTrace)].  He
 will demonstrate some of the many applications of DTrace probes,
 including Java Tracing, Python Tracing and OS Tracing.
 
@@ -41,6 +41,6 @@ including Java Tracing, Python Tracing and OS Tracing.
 1. Introduction of new members, news about Linux/Open Source, general announcements, Q&A
 1. Auction (bring any gear that would would like to donate to TLUG)
 <noinclude>
-[Itinerary](/category/template/meetings/)
-[Meetings:Itinerary](/category/template/)
+*Itinerary*
+*Meetings:Itinerary*
 </noinclude>

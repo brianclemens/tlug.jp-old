@@ -8,13 +8,13 @@ title: Template - Meetings - Itinerary - Tech - 201306
 
 1. Presentations
 
-1. "Version Control Done Right" by [Kieckens](Andreas)(/andreas kieckens/)
+1. "Version Control Done Right" by [Andreas Kieckens](/andreas kieckens/)
 A brief explanation of what Version control is and why 
 Andreas uses GIT and not another one. Then he'll describe
 a successful GIT branching system in detail and explain 
 why you should use it.
 
-1. "Debian on the Desktop: A Guide for Ubuntu Refugees" by [Cardwell](Travis)(/travis cardwell/)
+1. "Debian on the Desktop: A Guide for Ubuntu Refugees" by [Travis Cardwell](/travis cardwell/)
 Many desktop environments these days offer premature mobile-
 oriented user interfaces, gluttonous resource utilization, and over-
 minimization.  This talk gives tips for overcoming these issues by setting

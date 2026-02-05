@@ -20,7 +20,7 @@ Matthew (Karamoon) will give an overview of hypertext with reference to the work
 Short break *(maybe)*
 
 1. << Presentation (2) >>
-**"Semantic Web: Information wants to be useful"** By *[Raoul](Nicolas)(/user/nicolas raoul/)*
+**"Semantic Web: Information wants to be useful"** By *[Nicolas Raoul](/user/nicolas raoul/)*
 
 Nicolas Raoul will give an introduction to the Semantic Web.  He will cover the basics, and talk about the benefits in terms of data openness and ease of development.
 
@@ -30,6 +30,6 @@ Here are [the slides](http://nrw.free.fr/tlugsw.pdf), feedback to nicolas.raoul 
 1. Introduction of new members, news about Linux/Open Source, general announcements, Q&A
 1. Auction (bring any gear that would would like to donate to TLUG)
 <noinclude>
-[Itinerary](/category/template/meetings/)
-[Meetings:Itinerary](/category/template/)
+*Itinerary*
+*Meetings:Itinerary*
 </noinclude>

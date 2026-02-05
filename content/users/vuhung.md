@@ -9,7 +9,7 @@ I am a very open people but looks shy because I don't speak English much. And I 
 
 1. Pictures
 Myself 2 years ago.
-[Image:nguyen_vu_hung_01.jpg](/image/nguyen-vu-hung-01.jpg/)
+![nguyen_vu_hung_01.jpg](/images/nguyen-vu-hung-01.jpg)
 
 1. Day Jobs
 
@@ -75,12 +75,12 @@ http://tlug.jp/wiki/User:Vuhung:Sample_Callback_Functions
 
 1. ExifReader lets you see how many pictures a camera has taken
 
-[lets you see how many pictures a camera has taken](User:Vuhung:ExifReader)(/user/vuhung/exifreader lets you see how many pictures a camera has taken/)
+[User:Vuhung:ExifReader lets you see how many pictures a camera has taken](/user/vuhung/exifreader lets you see how many pictures a camera has taken/)
 
 1. Maps per pixels
 
-[Image:sheep01.jpg](/image/sheep01.jpg/)
+![sheep01.jpg](/images/sheep01.jpg)
 [View satellite sheeps](http://maps.google.com/maps?f=q&hl=en&q=10%3F54%2713.66%22+N+19%3F56%2706.15%22+E&ie=UTF8&t=k&om=1&ll=10.903823,19.935055&spn=0.00023,0.000311&z=22)
 
-[Image:sheep02.jpg](/image/sheep02.jpg/)
+![sheep02.jpg](/images/sheep02.jpg)
 [View satellite sheeps on grass](http://maps.google.com/maps?f=q&hl=en&geocode=&time=&date=&ttype=&q=15.298683+19.429651&ie=UTF8&ll=15.298499,19.429778&spn=0.000113,0.000156&t=k&z=23&iwloc=addr&om=0)

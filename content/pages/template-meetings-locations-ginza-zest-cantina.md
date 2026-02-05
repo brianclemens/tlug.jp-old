@@ -16,8 +16,8 @@ tel (03)5524-3621<br />
 [ [shop(ja)](http://www.zest-cantina.jp/gzone/?lang=ja) ]
 [ [map](https://goo.gl/maps/kQEvNUVgAvq) ]
 <noinclude>
-[Ginza:Zest_cantina](/category/template/meetings/locations/ginza/)
-[Ginza:Zest_cantina](/category/template/meetings/locations/)
-[Locations:Ginza:Zest_cantina](/category/template/meetings/)
-[Meetings:Locations:Ginza:Zest_cantina](/category/template/)
+*Ginza:Zest_cantina*
+*Ginza:Zest_cantina*
+*Locations:Ginza:Zest_cantina*
+*Meetings:Locations:Ginza:Zest_cantina*
 </noinclude>

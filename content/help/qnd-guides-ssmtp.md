@@ -153,4 +153,4 @@ References
 
 man ssmtp
 
-[SSMTP](/category/linux-help/qnd-guides/)
+*SSMTP*

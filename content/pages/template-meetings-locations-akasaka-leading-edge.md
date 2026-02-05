@@ -16,8 +16,8 @@ Canadian Embassy Building 1F (Place Canada)<br />
 
 Leading Edge is on the 1st floor of Canadian Embassy building.  Leading Edge offers IT consulting and IT professional placement services.  Leading Edge's office is about
 a 5 minute walk from Aoyama 1 Chome Station on the Ginza Line or about 10 minutes from Akasaka Mitsuke Station on the Marunouchi/Ginza/Hanzomon Lines.<noinclude>
-[Leading_Edge](/category/template/meetings/locations/akasaka/)
-[Akasaka:Leading_Edge](/category/template/meetings/locations/)
-[Locations:Akasaka:Leading_Edge](/category/template/meetings/)
-[Meetings:Locations:Akasaka:Leading_Edge](/category/template/)
+*Leading_Edge*
+*Akasaka:Leading_Edge*
+*Locations:Akasaka:Leading_Edge*
+*Meetings:Locations:Akasaka:Leading_Edge*
 </noinclude>

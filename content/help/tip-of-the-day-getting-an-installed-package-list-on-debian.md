@@ -20,4 +20,4 @@ Suggested solutions:
 Regards,
 Chuck
 
-[dpkg](/category/linux-help/tip-of-the-day/)
+*dpkg*

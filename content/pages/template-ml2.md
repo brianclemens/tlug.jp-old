@@ -6,15 +6,15 @@ draft: false
 title: Template - ML2
 ---
 
-[--{{{2}}}](http://lists.tlug.jp/ML/{{{1}}})<noinclude>
+[--*{2*}](http://lists.tlug.jp/ML/*{1*})<noinclude>
 
 Makes a simple link to the main TLUG mailing list archives on the poster's name.
 
-<pre>{{ML2|0803/msg00500.html|Dave Brown}}</pre>
+<pre>*ML2*</pre>
 
 would produce:
 
-{{ML2|0803/msg00500.html|Dave Brown}}
+*ML2*
 
-[ML2](/category/template/)
+*ML2*
 </noinclude>

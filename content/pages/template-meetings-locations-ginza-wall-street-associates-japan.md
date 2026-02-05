@@ -14,8 +14,8 @@ Wall Street Associates Japan (5F Boardroom).<br />
 Chuo-ku, Tokyo, 104-0061, Japan<br />
 [ [map](http://www.wallstreetjapan.com/Images/Wsa_Map.jpg) ]
 <noinclude>
-[Wall_Street_Associates_Japan](/category/template/meetings/locations/ginza/)
-[Ginza:Wall_Street_Associates_Japan](/category/template/meetings/locations/)
-[Locations:Ginza:Wall_Street_Associates_Japan](/category/template/meetings/)
-[Meetings:Locations:Ginza:Wall_Street_Associates_Japan](/category/template/)
+*Wall_Street_Associates_Japan*
+*Ginza:Wall_Street_Associates_Japan*
+*Locations:Ginza:Wall_Street_Associates_Japan*
+*Meetings:Locations:Ginza:Wall_Street_Associates_Japan*
 </noinclude>

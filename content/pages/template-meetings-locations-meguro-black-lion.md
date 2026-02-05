@@ -13,8 +13,8 @@ title: Template - Meetings - Locations - Meguro - Black Lion
 1-5-16 Meguro, Meguro-ku, Tokyo<br />
 [ [Info ](http://blacklion.jp/) ]
 [ [map](http://g.co/maps/wmbs9) ]<noinclude>
-[Black_Lion](/category/template/meetings/locations/meguro/)
-[Meguro:Black_Lion](/category/template/meetings/locations/)
-[Locations:Meguro:Black_Lion](/category/template/meetings/)
-[Meetings:Locations:Meguro:Black_Lion](/category/template/)
+*Black_Lion*
+*Meguro:Black_Lion*
+*Locations:Meguro:Black_Lion*
+*Meetings:Locations:Meguro:Black_Lion*
 </noinclude>

@@ -8,7 +8,7 @@ title: Template - Meetings - Itinerary - Tech - 201103
 
 1. Presentations
 
-1. "A taste of Digital Forensics, a la open source" by [Kozhuharov](Kalin)(/kalin kozhuharov/)
+1. "A taste of Digital Forensics, a la open source" by [Kalin Kozhuharov](/kalin kozhuharov/)
 
 The first speaker Kalin Kozhuharov will give a gentle introduction into 
 the field of Digital Forensics (DF) which was a central part of his last 

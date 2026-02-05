@@ -8,13 +8,13 @@ title: Template - Meetings - Itinerary - Tech - 201412
 
 1. Presentations
 
-1. Using Linux to learn how to play guitar with TuxGuitar (by [Kieckens](Andreas)(/andreas kieckens/))
+1. Using Linux to learn how to play guitar with TuxGuitar (by [Andreas Kieckens](/andreas kieckens/))
 TuxGuitar is a tool that allows you to compose music and download other people's compositions. 
 It's focused mostly around guitar and is a great tool to learn the instrument.
 Andreas will give a tour of the software and how he uses it to practice guitar playing
 or write down music that he comes up with.
 
-1. Adventures in Tail Call Optimization (by [Cardwell](Travis)(/travis cardwell/))
+1. Adventures in Tail Call Optimization (by [Travis Cardwell](/travis cardwell/))
 
 Tail call optimization is a feature of a programming language
 (compiler or interpreter) that is essential for writing efficient

@@ -12,7 +12,7 @@ title: Template - Meetings - Itinerary - Tech - 201004
 1. Presentations
 
 1. << Presentation (1) >>
-**"History of TLUG"** By *[Middleton](Edward)(/edward middleton/)*
+**"History of TLUG"** By *[Edward Middleton](/edward middleton/)*
 
 A short history of TLUG
 
@@ -28,14 +28,14 @@ they were the world's first programmable, digital, electronic, computing devices
 Short break *(maybe)*
 
 1. << Presentation (3) >>
-**"Asterisk in Japan"** by *[Gibson](Simon)(/simon gibson/)* and *[Jobbs](Sach)(/sach jobbs/)*
+**"Asterisk in Japan"** by *[Simon Gibson](/simon gibson/)* and *[Sach Jobbs](/sach jobbs/)*
 
-[Gibson](Simon)(/simon gibson/) and [Jobbs](Sach)(/sach jobbs/) will talk about using Asterisk in Japan. The aim of the talk is to let people know what is being done, what is possible and where to go to get more information if needed.
+[Simon Gibson](/simon gibson/) and [Sach Jobbs](/sach jobbs/) will talk about using Asterisk in Japan. The aim of the talk is to let people know what is being done, what is possible and where to go to get more information if needed.
 
 1. << Presentation (4) >>
-**"Creating a 1st Amazon Cloud instance"** by *[Tomita](Alberto)(/alberto tomita/)*
+**"Creating a 1st Amazon Cloud instance"** by *[Alberto Tomita](/alberto tomita/)*
 
-[Tomita](Alberto)(/alberto tomita/) will present his experience with setting up an account
+[Alberto Tomita](/alberto tomita/) will present his experience with setting up an account
 with AWS and creating a server instance for the first time - what went well and 
 mistakes he could had avoided.
 
@@ -45,6 +45,6 @@ mistakes he could had avoided.
 1. News about Linux/Open Source, general announcements, Q&A
 1. Auction (bring any gear that would would like to donate to TLUG)
 <noinclude>
-[Itinerary](/category/template/meetings/)
-[Meetings:Itinerary](/category/template/)
+*Itinerary*
+*Meetings:Itinerary*
 </noinclude>

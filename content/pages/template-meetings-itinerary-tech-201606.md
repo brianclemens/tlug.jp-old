@@ -8,7 +8,7 @@ title: Template - Meetings - Itinerary - Tech - 201606
 
 1. Presentations
 
-1. Visualising Trees and Graphs using TCL/TK and GraphViz (by [Kowarsch](Benjamin)(/benjamin kowarsch/))
+1. Visualising Trees and Graphs using TCL/TK and GraphViz (by [Benjamin Kowarsch](/benjamin kowarsch/))
 This is a rather more practical presentation of tree and graph
 visualisation in two parts:
 
@@ -28,7 +28,7 @@ syntax trees from source code to generate DOT output using his own compiler
 Attendees are invited to pre-install TCL/TK and GraphViz on their computers
 for some practical experimentation after the presentation.
 
-1. Fire Eye Services and Technology and the role of a Linux Admin (by [Hughes ](Erin)(/erin hughes /))
+1. Fire Eye Services and Technology and the role of a Linux Admin (by [Erin Hughes ](/erin hughes /))
 A brief overview of Fire Eye(*) services and technology and how Linux
 administration skills are the key to success in securing non-Linux
 (e.g. Windows) environment.

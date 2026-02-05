@@ -26,4 +26,4 @@ Here's how I got my keymap on the Dell laptop straightened out.
 1. Close *xev* by hitting Ctrl-C in the terminal from which you launched it
 1. Now, make sure that the command <pre>xmodmap ${HOME}/.xmodmaprc</pre> runs on startup of your window manager. If you are using an old-school *.xinitrc*, simply add the line <pre>xmodmap ${HOME}/.xmodmaprc</pre> to the file before the window manager is started. <font color="red">**GNOME / KDE user: update this section to give instructions for running xmodmap on startup!**</font>
 
-[xmodmap](/category/linux-help/tip-of-the-day/)
+*xmodmap*

@@ -17,8 +17,8 @@ Suginami-ku Tokyo 167-0042 <br>
 [Map](https://goo.gl/maps/Y6eCDZZTWaz)
 
 <noinclude>
-[PLACE](NISHIOGI)(/category/template/meetings/locations/nishiogikita/)
-[PLACE](NishiogiKita:NISHIOGI)(/category/template/meetings/locations/)
-[PLACE](Locations:NishiogiKita:NISHIOGI)(/category/template/meetings/)
-[PLACE](Meetings:Locations:NishiogiKita:NISHIOGI)(/category/template/)
+*NISHIOGI PLACE*
+*NishiogiKita:NISHIOGI PLACE*
+*Locations:NishiogiKita:NISHIOGI PLACE*
+*Meetings:Locations:NishiogiKita:NISHIOGI PLACE*
 </noinclude>

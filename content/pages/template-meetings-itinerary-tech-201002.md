@@ -23,7 +23,7 @@ This talk will begin with a brief overview of port scanning for those unfamiliar
 Short break *(maybe)*
 
 1. << Presentation (2) >>
-**"OpenSolaris Bible Translation Project for Japanese"** by *[Sullivan](Michael)(/michael sullivan/)*
+**"OpenSolaris Bible Translation Project for Japanese"** by *[Michael Sullivan](/michael sullivan/)*
 
 Michael Sullivan will talk about OpenSolaris Bible Translation Project for Japanese, and the class they will be running as part of this effort.
 
@@ -32,6 +32,6 @@ Michael Sullivan will talk about OpenSolaris Bible Translation Project for Japan
 1. News about Linux/Open Source, general announcements, Q&A
 1. Auction (bring any gear that would would like to donate to TLUG)
 <noinclude>
-[Itinerary](/category/template/meetings/)
-[Meetings:Itinerary](/category/template/)
+*Itinerary*
+*Meetings:Itinerary*
 </noinclude>

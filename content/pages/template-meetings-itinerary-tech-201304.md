@@ -10,13 +10,13 @@ title: Template - Meetings - Itinerary - Tech - 201304
 
 This month we will try a different format. Instead of the usual two 1-hour presentations, we will have several short presentations (varying between 10 to 30 minutes each)
 
-1. RTAI Linux (by [Servomaa](Henri)(/henri servomaa/))
+1. RTAI Linux (by [Henri Servomaa](/henri servomaa/))
 
-1. Go (by [Middleton](Edward)(/edward middleton/))
+1. Go (by [Edward Middleton](/edward middleton/))
 
-1. Intel's Next Unit of Computing and Linux (by [Elenkov](Nikolay)(/nikolay elenkov/))
+1. Intel's Next Unit of Computing and Linux (by [Nikolay Elenkov](/nikolay elenkov/))
 
-1. DJ'ing with Linux (by [Tomita](Alberto)(/alberto tomita/))
+1. DJ'ing with Linux (by [Alberto Tomita](/alberto tomita/))
 
 1. Open panel
 General discussion on distros and desktop environments

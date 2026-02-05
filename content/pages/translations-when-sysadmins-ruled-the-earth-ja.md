@@ -1559,9 +1559,9 @@ It was what he did. He was a sysadmin.
 [edit]
 
 1. 他の記事
-- [Sysadmins Ruled the Earth:en](Translations:When)(/translations/when sysadmins ruled the earth/en/)
-- [Sysadmins Ruled the Earth:fr](Translations:When)(/translations/when sysadmins ruled the earth/fr/)
-- [Sysadmins Ruled the Earth:ja](Translations:When)(/translations/when sysadmins ruled the earth/ja/)
-- [Sysadmins Ruled the Earth:vi](Translations:When)(/translations/when sysadmins ruled the earth/vi/)
+- [Translations:When Sysadmins Ruled the Earth:en](/translations/when sysadmins ruled the earth/en/)
+- [Translations:When Sysadmins Ruled the Earth:fr](/translations/when sysadmins ruled the earth/fr/)
+- [Translations:When Sysadmins Ruled the Earth:ja](/translations/when sysadmins ruled the earth/ja/)
+- [Translations:When Sysadmins Ruled the Earth:vi](/translations/when sysadmins ruled the earth/vi/)
 
-[Category:Translations](/category/translations/)
+*Category:Translations*

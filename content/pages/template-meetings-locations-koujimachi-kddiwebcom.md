@@ -18,8 +18,8 @@ Chiyoda-ku, Tokyo 102-0083
 
 [J-Map(Google)](http://www.kddi-webcommunications.co.jp/corporate/map.html)
 <noinclude>
-[KDDIwebcom](/category/template/meetings/locations/koujimachi/)
-[Koujimachi:KDDIwebcom](/category/template/meetings/locations/)
-[Locations:Koujimachi:KDDIwebcom](/category/template/meetings/)
-[Meetings:Locations:Koujimachi:KDDIwebcom](/category/template/)
+*KDDIwebcom*
+*Koujimachi:KDDIwebcom*
+*Locations:Koujimachi:KDDIwebcom*
+*Meetings:Locations:Koujimachi:KDDIwebcom*
 </noinclude>

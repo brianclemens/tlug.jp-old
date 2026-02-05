@@ -24,4 +24,4 @@ Typically, double-clicking in the location bar in Firefox selects the whole URI.
 1. Close about:config
 1. Double-click in the location in Firefox and see what gets selected
 
-[Firefox](/category/linux-help/tip-of-the-day/)
+*Firefox*

@@ -12,7 +12,7 @@ title: Template - Meetings - Itinerary - Tech - 202409
 1. Presentations
 
 1. << Presentation (1) >>
-**"DIY 3D printing with the Voron 2.4r2 Printer"** By *[Middleton](Edward)(/edward middleton/)*
+**"DIY 3D printing with the Voron 2.4r2 Printer"** By *[Edward Middleton](/edward middleton/)*
 
 This will be an introduction to DIY 3d printing with a Voron 2.4r2 printer.
 It will introduce various 3d printing methods.  It will go over some common
@@ -23,7 +23,7 @@ own designs using open source software.  As part of this we will look at the
 types of plastics you can print some general design rules and properties of 3d
 printed objects.
 
-The talk will concolude with some things [Middleton](Edward)(/edward middleton/) has printed and
+The talk will concolude with some things [Edward Middleton](/edward middleton/) has printed and
 mods he has made to his printer and some other interesting DIY manufacturing
 technology.
 
@@ -37,6 +37,6 @@ Short break *(maybe)*
 1. News about Linux/Open Source, general announcements, Q&A
 1. Auction (bring any gear that would would like to donate to TLUG)
 <noinclude>
-[Itinerary](/category/template/meetings/)
-[Meetings:Itinerary](/category/template/)
+*Itinerary*
+*Meetings:Itinerary*
 </noinclude>

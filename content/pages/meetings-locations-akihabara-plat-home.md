@@ -5,4 +5,4 @@ title: Meetings - Locations - Akihabara - Plat home
 ---
 
 1. Address
-{{Meetings:Locations:Akihabara:Plat'home}}
+*Meetings:Locations:Akihabara:Plat'home*

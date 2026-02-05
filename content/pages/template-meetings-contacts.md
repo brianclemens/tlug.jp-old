@@ -4,4 +4,4 @@ draft: false
 title: Template - Meetings - Contacts
 ---
 
-{{Meetings:Contacts:Tech:2008}}
+*Meetings:Contacts:Tech:2008*

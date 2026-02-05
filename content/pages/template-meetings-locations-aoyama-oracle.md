@@ -19,8 +19,8 @@ Minato-ku Tokyo Japan <br>
 
 [ [Train](http://maps.google.com/maps?q=%E3%82%AA%E3%83%A9%E3%82%AF%E3%83%AB%E9%9D%92%E5%B1%B1%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC&hl=en&cd=1&ei=h0EkTNOLNY_guwOW-dTLCA&sig2=fue81cXhs77V4gPUVp6lHg&sll=35.671243,139.718456&sspn=0.047972,0.101452&doflg=ptk&ie=UTF8&view=map&f=d&daddr=%E6%97%A5%E6%9C%AC,+%E3%80%92107-0061+%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%AF%E5%8C%BA%E5%8C%97%E9%9D%92%E5%B1%B1%EF%BC%92%E4%B8%81%E7%9B%AE%EF%BC%95%E2%88%92%EF%BC%98+%E9%9D%92%E5%B1%B1%EF%BC%AF%EF%BC%AD%E3%82%B9%E3%82%AF%E3%82%A8%E3%82%A2&geocode=CYjAe7OwG9xxFedMIAIdaO9TCCEoN1LJcld-yg&ved=0CBMQ_wY&ll=35.671792,139.718499&spn=0.005674,0.012681&t=h&z=17&start=0) ]
 <noinclude>
-[Oracle](/category/template/meetings/locations/aoyama/)
-[Aoyama:Oracle](/category/template/meetings/locations/)
-[Locations:Aoyama:Oracle](/category/template/meetings/)
-[Meetings:Locations:Aoyama:Oracle](/category/template/)
+*Oracle*
+*Aoyama:Oracle*
+*Locations:Aoyama:Oracle*
+*Meetings:Locations:Aoyama:Oracle*
 </noinclude>

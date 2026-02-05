@@ -7,7 +7,7 @@ title: Template - Meetings - Itinerary - Tech - 200109
 1. Topics
 
 1. Roxen Web Server and Pike
-*by [Baehr](Martin)(/martin baehr/)*
+*by [Martin Baehr](/martin baehr/)*
 
 1. XEmacs
-*by [Turnbull](Stephen)(/stephen turnbull/)*
+*by [Stephen Turnbull](/stephen turnbull/)*

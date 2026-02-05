@@ -4,8 +4,8 @@ draft: false
 title: Meetings - 20th Anniversary Party
 ---
 
-** [register](please)(/please register/) your attendance with [Doorkeeper](http://tlug.doorkeeper.jp/events/14417)**<br>
-** we need to have at least 25 people registered [September 20](by)(/by september 20/) **
+** [please register](/please register/) your attendance with [Doorkeeper](http://tlug.doorkeeper.jp/events/14417)**<br>
+** we need to have at least 25 people registered [by September 20](/by september 20/) **
 
 1. Overview
 1. Date
@@ -31,11 +31,11 @@ Shinagawa Grand Commons Taiyo Life Blg 3F
 - 5,000 yen (pre-paid)<br>
 - 5,800 yen (at the door)
 
-** [register](please)(/please register/) your attendance with [Doorkeeper](http://tlug.doorkeeper.jp/events/14417)**<br>
-** we need to have at least 25 people registered [September 20](by)(/by september 20/) **
+** [please register](/please register/) your attendance with [Doorkeeper](http://tlug.doorkeeper.jp/events/14417)**<br>
+** we need to have at least 25 people registered [by September 20](/by september 20/) **
 
 1. Contact Info
 For directions or information before the meeting, call:
-- [Middleton](Edward)(/edward middleton/) : 090-3689-0292
-- [Tomita](Alberto)(/alberto tomita/) : 080-3463-9256
-{{Meetings:Categories|year=2014|month=09}}
+- [Edward Middleton](/edward middleton/) : 090-3689-0292
+- [Alberto Tomita](/alberto tomita/) : 080-3463-9256
+*Meetings:Categories*

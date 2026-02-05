@@ -5,7 +5,7 @@ title: User - Zuco
 ---
 
 <big>**Pietro Zuco**</big>
-[by Jim Grisanzio http://jimgrisanzio.com/](frame|Photo)(/image/pietro-zuco.jpg/)
+[frame|Photo by Jim Grisanzio http://jimgrisanzio.com/](/image/pietro-zuco.jpg/)
 
 **Linkedin: ** http://www.linkedin.com/in/zucopietro<br>
 **Nationality:** Italian<br>

@@ -16,8 +16,8 @@ Meguro City, Tokyo, 〒153-0051<br />
 tel: 03-6412-8770</br>
 [ [web site (Japanese)](https://www.schmatz.jp/locations/schmatz-nakameguro) ]
 [ [Google Maps](https://goo.gl/maps/N7cTxT18PEc4LNTPA) ]<noinclude>
-[Nakameguro](Schmatz)(/category/template/meetings/locations/nakameguro/)
-[Nakameguro](Nakameguro:Schmatz)(/category/template/meetings/locations/)
-[Nakameguro](Locations:Nakameguro:Schmatz)(/category/template/meetings/)
-[Nakameguro](Meetings:Locations:Nakameguro:Schmatz)(/category/template/)
+*Schmatz Nakameguro*
+*Nakameguro:Schmatz Nakameguro*
+*Locations:Nakameguro:Schmatz Nakameguro*
+*Meetings:Locations:Nakameguro:Schmatz Nakameguro*
 </noinclude>

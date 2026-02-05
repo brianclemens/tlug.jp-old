@@ -6,14 +6,14 @@ draft: false
 title: Template - w2
 ---
 
-[{{{2}}} (Wikipedia)](http://en.wikipedia.org/wiki/{{{1}}})<noinclude>
+[*{2*} (Wikipedia)](http://en.wikipedia.org/wiki/*{1*})<noinclude>
 Creates a link to Wikipedia (English).
 
-<nowiki>{{w2|Linux|the best OS ever}}</nowiki>
+<nowiki>*w2*</nowiki>
 
 would produce:
 
-{{w2|Linux|the best OS ever}}
+*w2*
 
-[w2](/category/template/)
+*w2*
 </noinclude>

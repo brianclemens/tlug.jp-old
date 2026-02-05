@@ -21,8 +21,8 @@ Chiyoda-ku, Tokyo 102-0071 <br>
 - If you arrive after that phone Edward to be let in Ph. 090 3689 0292
 
 <noinclude>
-[IIJ](/category/template/meetings/locations/iidabashi/)
-[Iidabashi:IIJ](/category/template/meetings/locations/)
-[Locations:Iidabashi:IIJ](/category/template/meetings/)
-[Meetings:Locations:Iidabashi:IIJ](/category/template/)
+*IIJ*
+*Iidabashi:IIJ*
+*Locations:Iidabashi:IIJ*
+*Meetings:Locations:Iidabashi:IIJ*
 </noinclude>

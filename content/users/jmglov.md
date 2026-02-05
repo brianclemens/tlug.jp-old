@@ -5,7 +5,7 @@ title: User - Jmglov
 ---
 
 1. Image
-[Image:Jmglov-nc-lecture.jpg](/image/jmglov-nc-lecture.jpg/)
+![Jmglov-nc-lecture.jpg](/images/jmglov-nc-lecture.jpg)
 
 1. Contact
 - Email: [Josh Glover <jmglov@wmalumni.com>](mailto:jmglov@wmalumni.com)
@@ -24,9 +24,9 @@ title: User - Jmglov
 - Open Source:
 ** [Gentoo Linux developer](http://dev.gentoo.org/~jmglov/)
 - Wiki
-** {{w|User:Jmglov}}
-** {{wikt|User:Jmglov}}
-** {{w:ja|利用者:Jmglov}}
+** *w*
+** *wikt*
+** *w:ja*
 
 1. Personal
 I am a Tokyo-based Linux enthusiast, programmer, husband, and father. I run [Gentoo Linux](http://www.gentoo.org/) with [openbox](http://icculus.org/openbox/), and do all of my coding in [XEmacs](http://www.xemacs.org/).

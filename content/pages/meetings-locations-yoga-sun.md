@@ -5,7 +5,7 @@ title: Meetings - Locations - Yoga - Sun
 ---
 
 1. Address
-{{Meetings:Locations:Yoga:Sun}}
+*Meetings:Locations:Yoga:Sun*
 
 1. Directions
 1. Take the Tokyu-Denentoshi line (田園都市線) to Yoga (用賀). The Express train does not stop at Yoga. Use the local.
@@ -29,36 +29,36 @@ title: Meetings - Locations - Yoga - Sun
 
 (See the image below) Oracle/Sun has a few floors in this building. This is the tallest building in Yoga. You can`t miss it. 
 
-[Image:sun-1.jpg](/image/sun-1.jpg/)
+![sun-1.jpg](/images/sun-1.jpg)
 
 (See the image below) From the train, when you walk through the ticket gate, turn right toward the North Exit.
 
-[Image:sun-2.jpg](/image/sun-2.jpg/)
+![sun-2.jpg](/images/sun-2.jpg)
 
 (See the image below) After you turn right toward the North Exit, just walk straight. 
 
-[Image:sun-3.jpg](/image/sun-3.jpg/)
+![sun-3.jpg](/images/sun-3.jpg)
 
 (See the image below) Keep walking straight out of the station and straight into the Setagaya Business Square (SBS) building. Note that the Sun Microsystems logo in the left corner of the image below no longer exists. 
 
-[Image:sun-4.jpg](/image/sun-4.jpg/)
+![sun-4.jpg](/images/sun-4.jpg)
 
 (See the image below) Keep walking straight until you see the Saint-Germain Bakery. 
 
-[Image:sun-5.jpg](/image/sun-5.jpg/)
+![sun-5.jpg](/images/sun-5.jpg)
 
 (See the image below) When you get to the Saint-Germain Bakery, turn left and walk toward the escalators.
 
-[Image:sun-6.jpg](/image/sun-6.jpg/)
+![sun-6.jpg](/images/sun-6.jpg)
 
 (See the image below) When you get to the escalators, keep walking straight and look for the elevators directly in back of the escalators. Go to the 27th floor.
 
-[Image:sun-7.jpg](/image/sun-7.jpg/)
+![sun-7.jpg](/images/sun-7.jpg)
 
 (See the image below) This is the view from the street looking down into Yoga Station. 
 
-[Image:sun-8.jpg](/image/sun-8.jpg/)
+![sun-8.jpg](/images/sun-8.jpg)
 
 (See the image below) This is the view from the street level (first floor) escalators in the main lobby. Elevators are right behind the escalators. Go to the 27th floor. 
 
-[Image:sun-9.jpg](/image/sun-9.jpg/)
+![sun-9.jpg](/images/sun-9.jpg)

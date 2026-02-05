@@ -12,6 +12,6 @@ For directions or information before the meeting, call:
 - Zev Blut ............... 090-5778-8067
 - Alberto Tomita ............... 080-3463-9256
 <noinclude>
-[Contacts](/category/template/meetings/)
-[Meetings:Contacts](/category/template/)
+*Contacts*
+*Meetings:Contacts*
 </noinclude>
