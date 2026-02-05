@@ -48,11 +48,7 @@ In addition, the following will appear as part of the build process:
 - `resources/`: Hugo's resource cache
 - `.hugo_build.lock`: Hugo build lock file
 
-The `docroot/` contains legacy content from the old site (primarily for reference).
-
-The `wiki/` directory contains the original MediaWiki format files that were
-converted to Hugo Markdown format in the `content/` directory. These are kept
-for reference but are not used by the Hugo build.
+The `docroot/` contains legacy static content from the old site (primarily for reference).
 
 
 Previous Site(s)
