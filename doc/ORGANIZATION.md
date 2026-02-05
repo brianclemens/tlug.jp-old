@@ -27,29 +27,32 @@ Repository Organization
 
 The repository contains the following directories and files:
 - `*.md`: Documentation, such as `README.md` and this document.
-- `Test`: A script that builds and tests everything and compiles the site.
-- `bin/`: Tools used as part of the build and/or deploy process.
-- `app/`, `src/`: Haskell source code and tests for the site compiler.
-  - `src/` is code shared amongst all programs we build
-  - `app/SiteCompiler.hs` is the main module for `site-compiler`.
-  - `app/Test.hs` is the main module for the unit test runner.
-- `docroot/`: Static files copied directly to the compiled site.
-- `example/`: Files for the example blog site for Hakyll.
-- `wiki/`: MediaWiki markup source for pages from the old wiki.
-- `stack.yaml`: Haskell Stack configuration.
-- `tlug-website.cabal`: Build configuration for this project.
+- `content/`: Hugo content files (Markdown)
+  - `meetings/`: Meeting pages organized by year
+  - `help/`: Linux help guides and tips
+  - `about/`: Organization information
+  - `users/`: User profile pages
+  - `pages/`: Other miscellaneous content
+- `layouts/`: Hugo templates and custom layouts
+- `static/`: Static assets (images, CSS)
+- `themes/`: Hugo themes (PaperMod)
+- `archetypes/`: Hugo content templates
+- `assets/`: Hugo assets (CSS, JS)
+- `hugo.toml`: Hugo configuration
+- `convert-wiki.py`: MediaWiki to Markdown conversion script
+- `docroot/`: Legacy static files from old site
+- `wiki/`: Original MediaWiki markup source (reference only)
 
 In addition, the following will appear as part of the build process:
-- `_site/`: The output directory for the compiled site.
-- `_cache/`: Cached information to speed the site compiler.
-- `.stack-work/`: Haskell Stack's output dir for programs, object files, etc.
-- `.HTF/`: Cache for the Haskell Test Framework.
+- `public/`: The output directory for the compiled Hugo site
+- `resources/`: Hugo's resource cache
+- `.hugo_build.lock`: Hugo build lock file
 
-The `docroot/` currently contains only a bit of content copied from
-the old site, enough to display the home page.
+The `docroot/` contains legacy content from the old site (primarily for reference).
 
-The `wiki/` directory is currently empty, but has some pages on
-development branches where we're working on the code to render them.
+The `wiki/` directory contains the original MediaWiki format files that were
+converted to Hugo Markdown format in the `content/` directory. These are kept
+for reference but are not used by the Hugo build.
 
 
 Previous Site(s)

@@ -1,18 +1,24 @@
-#   Handy place for developers to drop working files not to be committed.
-/tmp/
-
-/.HTF/
-/.netlify/
-/.stack-work/
-/_cache/
-/_site/
-/stack.yaml.lock
-
 # Hugo generated files
 public/
 resources/
 .hugo_build.lock
 
+# Hugo stats
+hugo_stats.json
+
+# Development files
+/tmp/
+
 # OS files
 .DS_Store
 Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Node modules (if using npm for anything)
+node_modules/
