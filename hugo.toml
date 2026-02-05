@@ -1,0 +1,144 @@
+baseURL = 'https://www.tlug.jp/'
+languageCode = 'en'
+title = 'Tokyo Linux Users Group'
+theme = 'PaperMod'
+copyright = 'Tokyo Linux Users Group'
+
+# Enable emoji support
+enableEmoji = true
+
+# Multilingual configuration
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = false
+
+[languages]
+  [languages.en]
+    languageName = 'English'
+    weight = 1
+    title = 'Tokyo Linux Users Group'
+    [languages.en.params]
+      description = 'The Tokyo Linux Users Group - Community, meetings, and technical discussions'
+  
+  [languages.ja]
+    languageName = '日本語'
+    weight = 2
+    title = '東京 Linux ユーザーグループ'
+    [languages.ja.params]
+      description = '東京Linuxユーザーグループ - コミュニティ、ミーティング、技術的な議論'
+
+# Taxonomies (categories and tags)
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
+  year = 'years'
+  meeting-type = 'meeting-types'
+
+# Permalink configuration
+[permalinks]
+  meetings = '/meetings/:year/:month/'
+  help = '/help/:slug/'
+  about = '/about/:slug/'
+
+# Menu configuration
+[[menu.main]]
+  name = 'Home'
+  url = '/'
+  weight = 1
+
+[[menu.main]]
+  name = 'Meetings'
+  url = '/meetings/'
+  weight = 2
+
+[[menu.main]]
+  name = 'Help & Guides'
+  url = '/help/'
+  weight = 3
+
+[[menu.main]]
+  name = 'About'
+  url = '/about/'
+  weight = 4
+
+# Theme-specific params
+[params]
+  env = 'production'
+  description = 'Tokyo Linux Users Group - Community, meetings, and technical discussions since 1994'
+  author = 'TLUG'
+  
+  # Show reading time
+  ShowReadingTime = true
+  
+  # Show breadcrumbs
+  ShowBreadCrumbs = true
+  
+  # Show post navigation links
+  ShowPostNavLinks = true
+  
+  # Show code copy buttons
+  ShowCodeCopyButtons = true
+  
+  # Enable search
+  ShowSearchPage = true
+  
+  # Date format
+  DateFormat = 'January 2, 2006'
+  
+  # Social links
+  [[params.socialIcons]]
+    name = 'github'
+    url = 'https://github.com/tlug/tlug.jp'
+  
+  [[params.socialIcons]]
+    name = 'email'
+    url = 'mailto:tlug@tlug.jp'
+
+  # Home page info
+  [params.homeInfoParams]
+    Title = 'Welcome to TLUG'
+    Content = '''
+The Tokyo Linux Users Group (TLUG) is a group of Linux users and enthusiasts in Tokyo, Japan.
+We hold monthly technical meetings and social events. Everyone is welcome!
+    '''
+
+# Markdown configuration
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true  # Allow raw HTML in markdown
+  [markup.highlight]
+    style = 'monokai'
+    lineNos = true
+    lineNumbersInTable = true
+
+# Output formats (for search)
+[outputs]
+  home = ['HTML', 'RSS', 'JSON']
+
+# Build configuration
+[build]
+  writeStats = true
+
+# Module configuration for theme
+[module]
+  [[module.mounts]]
+    source = 'static'
+    target = 'static'
+  [[module.mounts]]
+    source = 'layouts'
+    target = 'layouts'
+  [[module.mounts]]
+    source = 'content'
+    target = 'content'
+  [[module.mounts]]
+    source = 'data'
+    target = 'data'
+  [[module.mounts]]
+    source = 'assets'
+    target = 'assets'
+  [[module.mounts]]
+    source = 'i18n'
+    target = 'i18n'
+  [[module.mounts]]
+    source = 'archetypes'
+    target = 'archetypes'

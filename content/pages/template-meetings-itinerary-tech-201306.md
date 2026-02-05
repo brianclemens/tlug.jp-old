@@ -1,0 +1,30 @@
+---
+date: '2026-02-05'
+draft: false
+title: Template - Meetings - Itinerary - Tech - 201306
+---
+
+1. Itinerary
+
+1. Presentations
+
+1. "Version Control Done Right" by [Kieckens](Andreas)(/andreas kieckens/)
+A brief explanation of what Version control is and why 
+Andreas uses GIT and not another one. Then he'll describe
+a successful GIT branching system in detail and explain 
+why you should use it.
+
+1. "Debian on the Desktop: A Guide for Ubuntu Refugees" by [Cardwell](Travis)(/travis cardwell/)
+Many desktop environments these days offer premature mobile-
+oriented user interfaces, gluttonous resource utilization, and over-
+minimization.  This talk gives tips for overcoming these issues by setting
+up a modern desktop on Debian 7.  Topics to be covered include the testing
+distribution, backports, multiarch, third-party software installation, and
+alternative window managers.
+
+1. nijikai
+After the presentations we will go for drinks at Za Watami Jinbocho 
+
+http://goo.gl/maps/z3KKd 
+
+1-1-13 Kanda-Jinbocho Sanseido Shoten, Dai-2 Anex Bld 3F Chiyoda-ku, Tokyo

@@ -1,0 +1,111 @@
+/* TLUG Custom Styles */
+
+/* Meeting metadata styling */
+.meeting-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin: 1rem 0;
+  padding: 1rem;
+  background: var(--code-bg);
+  border-radius: 8px;
+}
+
+.meeting-meta span {
+  padding: 0.25rem 0.75rem;
+  background: var(--theme);
+  color: var(--content);
+  border-radius: 4px;
+  font-size: 0.9rem;
+}
+
+.meeting-type span {
+  background: #4CAF50;
+  color: white;
+}
+
+/* Meeting info box */
+.meeting-info-box {
+  background: var(--code-bg);
+  border-left: 4px solid var(--primary);
+  padding: 1rem;
+  margin: 1.5rem 0;
+  border-radius: 4px;
+}
+
+.meeting-info-box h3 {
+  margin-top: 0;
+  color: var(--primary);
+}
+
+.meeting-info-box ul {
+  margin-bottom: 0;
+}
+
+/* Meeting navigation */
+.meeting-navigation {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--border);
+}
+
+.meeting-navigation a {
+  padding: 0.5rem 1rem;
+  background: var(--theme);
+  border-radius: 4px;
+  text-decoration: none;
+}
+
+.meeting-navigation a:hover {
+  background: var(--primary);
+  color: white;
+}
+
+/* Category styling */
+.post-categories {
+  margin-top: 1rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--border);
+}
+
+.category {
+  display: inline-block;
+  margin: 0 0.5rem 0.5rem 0;
+  padding: 0.25rem 0.75rem;
+  background: var(--code-bg);
+  border-radius: 4px;
+  font-size: 0.85rem;
+}
+
+/* Code block improvements */
+.highlight {
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+/* Responsive improvements */
+@media (max-width: 768px) {
+  .meeting-meta {
+    flex-direction: column;
+  }
+  
+  .meeting-navigation {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+}
+
+/* TLUG branding colors */
+:root {
+  --tlug-blue: #1e40af;
+  --tlug-green: #16a34a;
+  --tlug-red: #dc2626;
+}
+
+.dark {
+  --tlug-blue: #60a5fa;
+  --tlug-green: #4ade80;
+  --tlug-red: #f87171;
+}

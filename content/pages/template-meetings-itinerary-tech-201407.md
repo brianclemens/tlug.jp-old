@@ -1,0 +1,33 @@
+---
+date: '2026-02-05'
+draft: false
+title: Template - Meetings - Itinerary - Tech - 201407
+---
+
+1. Itinerary
+
+1. Presentations
+
+1. i18n on Linux by example: Japanese (by [Horn](Christian)(/christian horn/))
+- What are i18n and l10n?  Do we need that?
+- Character encodings: what is it, what are the most important ones?
+- output of unicode characters on Linux
+- converting between encodings
+- input of russian or Japanese characters
+- Locales
+- i18n for webpages end email
+- i18n in BIOS/Console/UEFI
+
+
+1. Metasepi Report: Writing NetBSD Sound Drivers in Haskell (by [Okabe](Kiwamu)(/kiwamu okabe/))
+Most strongly typed, functional programming languages are not equipped with a reentrant garbage collector.
+Therefore such languages are not used for operating systems programming, where the virtues of types are most desired.
+We propose the use of Context-Local Heaps (CLHs) to achieve reentrancy, which also increasing the speed of garbage collection.
+We have implemented CLHs in Ajhc http://ajhc.metasepi.org/, a Haskell compiler derived from jhc http://repetae.net/computer/jhc/, rewritten some NetBSD sound drivers using Ajhc, and benchmarked them.
+
+1. nijikai
+After the presentations we will go for drinks at Wara-Wara Hanzomon
+http://goo.gl/maps/MH9b3 
+
+2-3-36 Koujimachi, Koujimachi Suzuki Bldg Chiyoda-ku, Tokyo
+tel: 03-3239-4988

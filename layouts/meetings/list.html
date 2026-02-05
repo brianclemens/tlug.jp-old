@@ -1,0 +1,33 @@
+{{ define "main" }}
+<article class="post">
+  <header class="post-header">
+    <h1 class="post-title">{{ .Title }}</h1>
+  </header>
+  
+  <div class="post-content">
+    {{ .Content }}
+    
+    <h2>Meetings by Year</h2>
+    
+    {{ $pages := where .Site.Pages "Type" "meeting" }}
+    {{ $byYear := $pages.GroupByParam "years" }}
+    
+    {{ range $byYear.Reverse }}
+      <h3>{{ .Key }}</h3>
+      <ul>
+        {{ range .Pages.ByDate.Reverse }}
+          <li>
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+            {{ if .Params.meeting_type }}
+              <span class="meeting-type">[{{ .Params.meeting_type }}]</span>
+            {{ end }}
+            {{ if .Params.location }}
+              - {{ .Params.location }}
+            {{ end }}
+          </li>
+        {{ end }}
+      </ul>
+    {{ end }}
+  </div>
+</article>
+{{ end }}

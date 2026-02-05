@@ -1,0 +1,13 @@
+---
+date: '2026-02-05'
+draft: false
+title: User - Chhorn
+---
+
+- Christian Horn, *1978
+- linux engineer/sysadmin/user in all corners of life
+- cycling, reading, Japanfan since stay in 2008
+- currently living in Germany
+- speaking English, German, a bit Russian and an improving amount of Japanese
+- http://fluxcoil.net / chorn @ fluxcoil.net
+- http://www.linkedin.com/in/hornchristian

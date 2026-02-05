@@ -1,0 +1,40 @@
+name: Deploy Hugo Site
+
+on:
+  push:
+    branches:
+      - hugo
+      - main
+  pull_request:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+          fetch-depth: 0
+      
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest'
+          extended: true
+      
+      - name: Build Hugo site
+        run: hugo --minify --verbose
+      
+      - name: Deploy to gh-pages
+        if: github.ref == 'refs/heads/main' || github.ref == 'refs/heads/hugo'
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
+          publish_branch: gh-pages
+          cname: www.tlug.jp

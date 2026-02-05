@@ -1,0 +1,25 @@
+---
+date: '2026-02-05'
+draft: false
+title: Template - Meetings - Itinerary - Tech - 200103
+---
+
+1. Topics
+1. Inside an Electronic Dictionary
+This months topic will be presented by [Breen](Jim)(/jim breen/) Visiting
+Professor, at the Institute for the Study of Languages and Cultures
+of Asia and Africa, Tokyo University of Foreign Studies, Japan.
+
+As Jim says.....
+
+In the talk I intend to cover three aspects of what I have been doing
+with electronic dictionaries and dictionary files over the last few
+years:
+
+- how the file(s) are structured, and why
+- how they are indexed and searched. The good bits and the limitations.
+- some of the implementation issues, as the files and techniques have been used on various platforms, both as stand-alone systems and servers.
+
+If anyone is left awake, I'll mention where I'm going with the XML
+formatted files, and some plans for expanding the WWW server, and
+finally doing a cross-platform standalone version.

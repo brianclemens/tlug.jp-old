@@ -1,0 +1,33 @@
+---
+date: '2026-02-05'
+draft: false
+title: Template - Meetings - Itinerary - Tech - 201604
+---
+
+1. Itinerary
+
+1. Presentations
+
+1. How things are routed on the Internet (by [Sampson](Curt)(/curt sampson/))
+Do you want to know where and how your packets are routed across the Internet? Curt will explain this, based on actual data you bring in.
+
+Before you come to the meeting, run
+        traceroute login.worldoftanks.asia
+    
+and we will go through the list of names and IP addresses that come up and compare what's happening in your Internet connection with that of other TLUG members.
+
+Depending on interest, we might delve quite deep in to the details of either or both of Internet routing and how your host processes packets internally once they've been received.
+
+
+1. Ethereum: The unstoppable decentralized world computer that's going to kill us all (by [Edgar](Edmund)(/edmund edgar/))
+Edmund will talk about what Ethereum is and how you can use it to write fully-verifiable decentralized applications that don't need a server and can't be shut down.
+
+https://www.ethereum.org/
+
+"Ethereum is a decentralized platform that runs smart contracts: applications that run exactly as programmed without any possibility of downtime, censorship, fraud or third party interference."
+
+"These apps run on a custom built blockchain, an enormously powerful shared global infrastructure that can move value around and represent the ownership of property. This enables developers to create markets, store registries of debts or promises, move funds in accordance with instructions given long in the past (like a will or a futures contract) and many other things that have not been invented yet, all without a middle man or counterparty risk."
+
+
+1. Nijikai
+After the presentations we will go for drinks somewhere around Iidabashi Station.

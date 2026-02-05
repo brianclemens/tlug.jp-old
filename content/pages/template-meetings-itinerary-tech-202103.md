@@ -1,0 +1,24 @@
+---
+date: '2026-02-05'
+draft: false
+title: Template - Meetings - Itinerary - Tech - 202103
+---
+
+1. Itinerary
+
+1. Presentations:
+
+*Mailman - navigating commercial closed-source in an open source project* - Stephen Turnbull
+
+Mailman 3 is now the upgrade path for most sites with a team of three
+applications (Mailman core which handles the mail, and two Django apps,
+Postorius for administration and user profiles, and HyperKitty for
+archives).  There are now commercially developed closed-source
+alternatives for Postorius and HyperKitty.  Stephen will talk about
+how this came about, the frictions and how it can work.
+
+*Exploring Lilypond* - Andreas Kieckens
+
+Andreas will talk about his progress exploring Lilypond which is a
+language for describing music in text files that can be compiled to
+midi or score.

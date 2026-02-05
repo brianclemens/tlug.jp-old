@@ -1,0 +1,5 @@
+{{/* Internal wiki-style link */}}
+{{ $page := .Get 0 }}
+{{ $text := .Get 1 | default $page }}
+{{ $slug := $page | urlize }}
+<a href="/{{ $slug }}/">{{ $text }}</a>

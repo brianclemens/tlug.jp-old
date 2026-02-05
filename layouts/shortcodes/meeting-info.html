@@ -1,0 +1,12 @@
+{{/* Meeting information box */}}
+<div class="meeting-info-box">
+  <h3>Meeting Details</h3>
+  <ul>
+    {{ with .Get "date" }}<li><strong>Date:</strong> {{ . }}</li>{{ end }}
+    {{ with .Get "time" }}<li><strong>Time:</strong> {{ . }}</li>{{ end }}
+    {{ with .Get "location" }}<li><strong>Location:</strong> {{ . }}</li>{{ end }}
+    {{ with .Get "venue" }}<li><strong>Venue:</strong> {{ . }}</li>{{ end }}
+    {{ with .Get "address" }}<li><strong>Address:</strong> {{ . }}</li>{{ end }}
+    {{ with .Get "map" }}<li><strong>Map:</strong> <a href="{{ . }}" target="_blank">View Map</a></li>{{ end }}
+  </ul>
+</div>

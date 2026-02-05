@@ -1,0 +1,53 @@
+{{ define "main" }}
+<article class="post meeting">
+  <header class="post-header">
+    <h1 class="post-title">{{ .Title }}</h1>
+    
+    <div class="meeting-meta">
+      {{ if .Params.date }}
+        <span class="meeting-date">📅 {{ .Date.Format "January 2, 2006" }}</span>
+      {{ end }}
+      
+      {{ if .Params.meeting_type }}
+        <span class="meeting-type">
+          {{ if eq .Params.meeting_type "technical" }}
+            🎓 Technical Meeting
+          {{ else if eq .Params.meeting_type "nomikai" }}
+            🍻 Nomikai
+          {{ else }}
+            {{ .Params.meeting_type }}
+          {{ end }}
+        </span>
+      {{ end }}
+      
+      {{ if .Params.location }}
+        <span class="meeting-location">📍 {{ .Params.location }}</span>
+      {{ end }}
+    </div>
+  </header>
+  
+  <div class="post-content">
+    {{ .Content }}
+  </div>
+  
+  <footer class="post-footer">
+    {{ if .Params.categories }}
+      <div class="post-categories">
+        <strong>Categories:</strong>
+        {{ range .Params.categories }}
+          <span class="category">{{ . }}</span>
+        {{ end }}
+      </div>
+    {{ end }}
+    
+    <div class="meeting-navigation">
+      {{ with .PrevInSection }}
+        <a href="{{ .Permalink }}" class="prev-meeting">← Previous Meeting</a>
+      {{ end }}
+      {{ with .NextInSection }}
+        <a href="{{ .Permalink }}" class="next-meeting">Next Meeting →</a>
+      {{ end }}
+    </div>
+  </footer>
+</article>
+{{ end }}
