@@ -1,6 +1,6 @@
 # tlug.jp: Tokyo Linux Users Group Website
 
-This is the Hugo-based version of <https://tlug.jp>, the Tokyo Linux Users Group website. It's a fully static site generated using [Hugo], intended to be deployed to a CDN such as [Netlify].
+This is the Hugo-based version of <https://tlug.jp>, the Tokyo Linux Users Group website. It's a fully static site generated using [Hugo] and deployed via GitHub Pages.
 
 The current developers/maintainers are:
 - Curt Sampson ([`@0cjs`]) <cjs@cynic.net>
@@ -122,7 +122,7 @@ The site automatically deploys to GitHub Pages when you push to the `hugo` or `m
 
 1. GitHub Actions builds the site using Hugo
 2. The built site is pushed to the `gh-pages` branch
-3. Netlify serves the content from `gh-pages`
+3. GitHub Pages serves the content from `gh-pages`
 
 ### Manual Deployment
 
@@ -136,14 +136,14 @@ hugo --minify
 # Deploy this to your hosting provider
 ```
 
-## Netlify Configuration
+## GitHub Pages Configuration
 
-The `netlify.toml` file configures:
-- Build command: `hugo --gc --minify`
+The site is deployed to GitHub Pages via GitHub Actions:
+- Workflow: `.github/workflows/hugo.yaml`
+- Build command: `hugo --minify --verbose`
 - Publish directory: `public`
-- Security headers
-- Caching rules
-- Redirects
+- Deploy branch: `gh-pages`
+- Custom domain: `www.tlug.jp` (configured via CNAME)
 
 ## Migration from Hakyll
 
@@ -200,7 +200,6 @@ Content is licensed under CC-BY-4.0. See [LICENSE.md](LICENSE.md) for details.
 ---
 
 [Hugo]: https://gohugo.io/
-[Netlify]: https://www.netlify.com/
 [`@0cjs`]: https://github.com/0cjs
 [`@jimt`]: https://github.com/jimt
 [`@sssjjjnnn`]: https://github.com/sssjjjnnn

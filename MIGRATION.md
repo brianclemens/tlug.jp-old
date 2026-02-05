@@ -187,14 +187,14 @@ The `.github/workflows/hugo.yaml` file configures:
 - Hugo extended version
 - Automatic deployment to `gh-pages`
 
-### Netlify
+### GitHub Pages
 
-The `netlify.toml` file configures:
-- Hugo version: 0.121.0
-- Build command: `hugo --gc --minify`
-- Security headers
-- Cache settings
-- Environment variables
+The site deploys via GitHub Actions to GitHub Pages:
+- Workflow: `.github/workflows/hugo.yaml`
+- Hugo version: latest extended
+- Build command: `hugo --minify --verbose`
+- Deploy branch: `gh-pages`
+- Custom domain: `www.tlug.jp`
 
 ## Rollback Plan
 
@@ -202,7 +202,7 @@ If issues arise, rollback is simple:
 
 1. The `master` branch still contains the Hakyll version
 2. Simply merge `master` to `gh-pages` to revert
-3. Update Netlify to deploy from `master` instead of `hugo`
+3. Update deployment configuration if needed
 
 ## Performance Comparison
 
@@ -221,7 +221,7 @@ If issues arise, rollback is simple:
 1. **Review converted content** - Check for formatting issues
 2. **Update broken links** - Fix any broken internal references
 3. **Test thoroughly** - Verify all functionality works
-4. **Deploy to staging** - Test on Netlify preview
+4. **Deploy to staging** - Test via GitHub Pages deployment
 
 ### Short Term
 

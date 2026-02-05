@@ -2,207 +2,269 @@ Hosting for this Website
 ========================
 
 > For information on how to release a new version of the website, see the
-> ["Production Deployment"][deployment] section of the `README` file at the
+> ["Deployment"][deployment] section of the `README` file at the
 > top level of this repo.
 
 Current Status
 --------------
 
-Currently, <http://tlug.jp> and <http://www.tlug.jp> are still being served
-by the old server (`akari`) supplied by Asahi-Net. When the switch to the
-new hosting is done, it will be configured as follows.
+The site is now deployed via GitHub Pages at <https://www.tlug.jp>.
+
+The Hugo-based site is built automatically via GitHub Actions when changes
+are pushed to the `hugo` or `main` branch, and deployed to the `gh-pages`
+branch which GitHub Pages serves.
 
 
 Contacting Site Administrators
 ------------------------------
 
-Send a message to the [TLUG mailing list] or try the [TLUG Gitter room].
+Send a message to the [TLUG mailing list] or try the [TLUG Matrix room].
 
 
 Release Branch
 --------------
 
-Currently we always compile the web site locally on a developer machine and
-commit the compiled website to a release branch. For the `master` branch
-code this is `gh-pages` (used for compatibility with [GitHub Pages][ghp],
-should we wish to experiment with that) and for the developer branches it's
-the developer branch name with `-release` appended. The procedure for
-building recompiling the site and deloying the release to a branch is
-discussed in the [README](../README.md).
+The compiled website is committed to the `gh-pages` branch. This is handled
+automatically by GitHub Actions.
 
-We've considered having the site be rebuilt from source by an external
-server after each commit to the `master` branch, but there are certain
-technical difficulties with that which are discussed in `proposals.md`
-section ["Alternate Deployment Options"][alt-deploy].
+The procedure for building and deploying is:
+1. Make changes to content in the `hugo` or `main` branch
+2. Commit and push changes
+3. GitHub Actions automatically:
+   - Checks out the code with submodules
+   - Builds the site with Hugo
+   - Deploys to `gh-pages` branch
+4. GitHub Pages serves the content
 
 
-Netlify Hosting
+GitHub Pages Configuration
+--------------------------
+
+The site is hosted on GitHub Pages with a custom domain:
+
+- **Repository**: `brianclemens/tlug.jp-old` (or upstream `tlug/tlug.jp`)
+- **Source Branch**: `gh-pages`
+- **Custom Domain**: `www.tlug.jp`
+- **CNAME**: Automatically created by GitHub Actions workflow
+
+### GitHub Actions Workflow
+
+The `.github/workflows/hugo.yaml` file configures:
+- **Trigger**: Push to `hugo` or `main` branch
+- **Build**: Hugo latest extended version
+- **Command**: `hugo --minify --verbose`
+- **Deploy**: Uses `peaceiris/actions-gh-pages@v3`
+- **Permissions**: `contents: write` for gh-pages deployment
+
+### Setting up GitHub Pages
+
+To enable GitHub Pages for this repository:
+
+1. Go to repository Settings
+2. Navigate to Pages section (left sidebar)
+3. Under "Build and deployment":
+   - Source: Deploy from a branch
+   - Branch: `gh-pages` / `/ (root)`
+4. Under "Custom domain":
+   - Enter: `www.tlug.jp`
+   - Enable "Enforce HTTPS"
+
+### DNS Configuration
+
+For the custom domain to work, DNS records must be configured:
+
+**For `www.tlug.jp`:**
+```
+CNAME www -> brianclemens.github.io (or tlug.github.io for upstream)
+```
+
+**For apex domain `tlug.jp` (optional redirect):**
+```
+A @ -> 185.199.108.153
+A @ -> 185.199.109.153
+A @ -> 185.199.110.153
+A @ -> 185.199.111.153
+```
+
+These are GitHub Pages IP addresses. Configure apex domain to redirect to www
+is recommended for better performance and SEO.
+
+
+Build Process
+-------------
+
+### Local Build
+
+```bash
+# Install Hugo extended
+# See https://gohugo.io/installation/
+
+# Clone repository
+git clone https://github.com/brianclemens/tlug.jp-old.git
+cd tlug.jp-old
+git checkout hugo
+
+# Initialize submodules (theme)
+git submodule update --init --recursive
+
+# Build site
+hugo --minify
+
+# Output in public/ directory
+```
+
+### Development Server
+
+```bash
+hugo server -D
+# Visit http://localhost:1313
+```
+
+### CI/CD Pipeline
+
+GitHub Actions handles all builds automatically:
+
+1. **Trigger**: Any push to `hugo` or `main` branch
+2. **Environment**: Ubuntu latest
+3. **Hugo Version**: Latest extended (auto-updated)
+4. **Build Time**: ~1-2 seconds for full site (1000+ pages)
+5. **Deploy**: Automatic push to `gh-pages`
+
+
+Deployment Workflow
+-------------------
+
+### For Content Updates
+
+1. Edit content files in `content/` directory
+2. Commit changes: `git commit -am "Update content"`
+3. Push to hugo branch: `git push origin hugo`
+4. GitHub Actions automatically builds and deploys
+5. Site live in ~1-2 minutes
+
+### For Site Configuration
+
+1. Edit `hugo.toml` or layout files
+2. Test locally: `hugo server -D`
+3. Commit and push changes
+4. GitHub Actions rebuilds and deploys
+
+### For Theme Updates
+
+```bash
+# Update theme submodule
+cd themes/PaperMod
+git pull origin master
+cd ../..
+git add themes/PaperMod
+git commit -m "Update PaperMod theme"
+git push origin hugo
+```
+
+
+Rollback Procedure
+------------------
+
+If a deployment has issues:
+
+### Option 1: Revert Commit
+```bash
+git revert <commit-hash>
+git push origin hugo
+# GitHub Actions will deploy the reverted version
+```
+
+### Option 2: Reset gh-pages
+```bash
+git checkout gh-pages
+git reset --hard <previous-commit>
+git push --force origin gh-pages
+# WARNING: Only do this if you understand the implications
+```
+
+### Option 3: Redeploy Previous Version
+```bash
+git checkout <previous-good-commit>
+git push origin hugo
+# This creates a new deployment
+```
+
+
+Monitoring and Maintenance
+--------------------------
+
+### Check Build Status
+
+- View GitHub Actions: https://github.com/brianclemens/tlug.jp-old/actions
+- Check for failed builds or warnings
+- Review build logs for errors
+
+### Site Health
+
+- Monitor site uptime: https://www.tlug.jp
+- Check GitHub Pages status: https://www.githubstatus.com
+- Review broken links: Run `python3 check-links.py` locally
+
+### Performance
+
+- Build times should be under 5 seconds
+- Page load times should be under 2 seconds
+- Use browser dev tools to check performance
+
+
+Troubleshooting
 ---------------
 
-We use [Netlify] for our hosting mainly because it's free and it allows us
-to configure (in [`/docroot/netlify.toml`][netlify.toml]) the `/wiki` path
-to serve files without extensions as `text/html`. This lets us maintain the
-same `/wiki/...` links as the old MediaWiki site uses.
+### Build Fails
 
-The following Netlify documentation pages may be useful:
-- [Netlify Documentation Home][nfd]
-- [GitHub Permissions][nfd-githubperms]
-- [`netlify.toml` Reference][nfd-toml] for the Netlify configuration file.
-- [Headers][nfd-headers]
+1. Check GitHub Actions logs for errors
+2. Test build locally: `hugo --minify --verbose`
+3. Verify hugo.toml syntax
+4. Check for broken submodule references
 
-### Netlify GitHub App
+### Site Not Updating
 
-> NOTE: The exact workings of the Netlify GitHub App have not been
-> completely confirmed; this information may need to be corrected.
+1. Verify push was successful: `git log origin/hugo`
+2. Check GitHub Actions completed successfully
+3. Clear browser cache
+4. Wait 1-2 minutes for GitHub Pages to refresh
 
-The [Netlify GitHub app][github/apps/netlify] is what allows Netlify
-to gain access to read repos and update status on GitHub. This is
-installed and configured separately for each GitHub account or
-organization and the installation status or settings for one
-account/org cannot affect any other account/org. The app can be
-configured (in the settings for that GitHub account/org) to allow
-Netlify to read all repos or just selected ones. Uninstalling the app
-will remove all access to repos owned by that account/org.
+### Custom Domain Issues
 
-Installation and mangement of the app is done by using any GitHub
-account that has admin access to the account/org that owns the repos.
-There is no connection between the GitHub account you use to do these
-management actions and the accounts/orgs to which Netlify is given
-access when configuring a Netlify site. In particular this means that,
-__even though you log in to GitHub with your account when configuring
-a Netlify site, Netlify will not gain access to any repos outside of
-the `tlug` org, whether in your account or other orgs,__ unless you
-explicitly install the app in your account or other orgs. (Of course,
-if someone else has already installed the app in other accounts/orgs,
-Netlify will already have read access to the configured repos.)
+1. Verify CNAME file exists in gh-pages branch
+2. Check DNS propagation: `dig www.tlug.jp`
+3. Verify GitHub Pages settings show custom domain
+4. Check SSL certificate is active
 
-The Netlify app has been installed for the `tlug` organization on GitHub;
-this is administered via the [`tlug` Netlify App settings
-page][github/tlug/settings/installations/netlify] reachable from the
-[`tlug` settings page][github/tlug/settings] on the [Installed GitHub
-Apps][github/tlug/settings/installations] tab.
 
-The app always has the following access to any repos for which it's
-enabled; this cannot be changed:
-- Read access to code.
-- Read access to metadata.
-- Read and write access to checks, commit statues and pull requests.
+Historical Notes
+----------------
 
-The app is currently configured to have the above access to all repos
-(public and private) in the GitHub `tlug` organization; if necessary access
-can be restricted (using the admin pages above) to specific repos. However,
-even with the app having access to all repos, users will not be able to
-configure Netlify sites for any accounts they can't personally see with
-their own GitHub accounts.
+### Previous Hosting
 
-To configure a new site on the Netlify `tlug-admin` account:
-1. Log out of any Netlify account you're currently using and log in to the
-   `tlug-admin` Netlify account.
-2. When setting up the new site you will be prompted to link it to a
-   repository. Choose the "GitHub" button and you will be prompted to log
-   into GitHub, which you do with your personal account. (This will not
-   grant Netlify access to repos in your personal account unless you
-   specifically enable that; see above.)
-3. At the repo selection screen there will be a dropdown allowing you to
-   select the GitHub account or organization whose repos you want to look
-   at; choose `tlug` here.
-4. Choose the appropriate repo and it will be used for that site.
-5. Log out of the `tlug-admin` account.
+The site was previously:
+1. Hosted on `akari.tlug.jp` (2006-2024) with MediaWiki
+2. Migrated to Netlify briefly during Hugo transition
+3. Now deployed via GitHub Pages (2025+)
 
-### Netlify Account
+### Migration Path
 
-Because only paid ($45/month) Netlify plans offer the ability to let
-multiple Netlify accounts manage a site, we use a separate Netlify free
-account, here called `tlug-admin`, to host the site, with the password
-shared amongst the admins. For details on access to this, contact one of
-the following people:
-- Edward Middleton (`@emiddleton`) <mailto:edward.middleton@vortorus.net>
-- Curt Sampson (`@0cjs`) <mailto:cjs@cynic.net>
+1. Hakyll-based site (master branch) - Legacy
+2. Hugo migration (hugo branch) - Current
+3. GitHub Pages deployment - Current hosting
 
-### Netlify Site
 
-In the shared Netlify account above, the `tlug-jp` site, which is labeled
-`www.tlug.jp` in the master site list, is our production site.
-- Admin URL: <https://app.netlify.com/sites/tlug-jp>
-- Site ID: `fc766593-520c-4f3d-89a2-20809ffffcab`
-- Test URL: <https://tlug-jp.netlify.com>
+Resources
+---------
 
-#### Domain Names
-
-The [`tlug-jp` domain configuration][domconfig-tlug] on the Netlify is set
-up to serve the following domain names:
-- <http://www.tlug.jp>: Primary domain serving the site content.
-- <http://tlug.jp>: Redirects automatically to the primary domain.
-- <http://new.tlug.jp>: Domain alias for testing.
-- <https://tlug-jp.netlify.com>: "Default subdomain"; Netlify serves the
-  site on this as well as the domain names above this cannot be disabled.
-  (It also serves as the target for the real domain's `CNAME` record.)
-
-Note that the `tlug.jp` URLs are not yet HTTPS. Netlify can automatically
-configure Let's Encrypt certificates for those, but only when they are
-already pointing to Netlify.
-
-The following steps, described in more detail in Netlify's [custom
-domain][nfd-domains] documentation, still need to be done:
-1. __Immediately:__
-   - Configure `new.tlug.jp` as a `CNAME` to `tlug-jp.netlify.com`.
-   - This will allow us to test the service on a custom domain name and
-     configure an HTTPS certificate to test that.
-2. __When changing over the production site:__
-   - Configure `www.tlug.jp` as a `CNAME` to `tlug-jp.netlify.com`.
-   - Change the `tlug.jp` `A` record to `104.198.14.52`, the address of
-     Netlify's load balancer. (We may actually be able to do this before
-     the production changeover to have the `tlug.jp` start redirecting to
-     the old `www` earlier.)
-3. __Later__: Remove `new.tlug.jp` after the new production site is
-   confirmed to be running ok.
-
-#### A Note on Handling the Root Domain
-
-On the previous site we had both `tlug.jp` and `www.tlug.jp` separately
-serving the full site content, rather than having a canonical version to
-which the other redirected. Netlify does not recommend doing this, instead
-suggesting that the root domain redirects to the `www` subdomain, and we
-follow that recommendation for two reasons:
-
-1. Better speed and reliability as described in Netlify's [Custom
-   Domains][nfd-domains] documentation. The `www` subdomain uses a CNAME
-   record pointing to Netlify, which serves different results based on the
-   current CDN server configuraiton and the requester's location. However,
-   we must use an `A` record for the root domain meaning that all requests
-   to that will always terminate on a specific load balancer, reducing
-   speed and reliability.
-
-2. Search engine optimization: serving the same content from two different
-   domain names (`tlug.jp` and `www.tlug.jp`) spreads external links to the
-   site across the new names, reducing the "popularity" of each individual
-   name, and search engines also tend to discount content served from
-   multiple domain names because this is a technique used by domain
-   squatters.
+- [GitHub Pages Documentation](https://docs.github.com/en/pages)
+- [Hugo Documentation](https://gohugo.io/documentation/)
+- [GitHub Actions Documentation](https://docs.github.com/en/actions)
+- [PaperMod Theme](https://github.com/adityatelange/hugo-PaperMod)
 
 
 
 <!-------------------------------------------------------------------->
-[TLUG Gitter room]: https://gitter.im/tlug/tlug
-[TLUG mailing list]: https://lists.tlug.jp/list.html
-[alt-deploy]: proposals.md#alternate-deployment-options
-[deployment]: ../README.md#production-deployment
-[domconfig-tlug]: https://app.netlify.com/sites/tlug-jp/settings/domain#custom-domains
-[gh-depkey]: https://github.com/tlug/tlug.jp/settings/keys
-[ghp-projectpg]: https://help.github.com/en/articles/user-organization-and-project-pages#project-pages-sites
-[ghp-pubconfig]: https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages
-[ghp]: https://help.github.com/pages/
-[github pages]: https://pages.github.com/
-[github/tlug/settings/installations/netlify]: https://github.com/organizations/tlug/settings/installations/735931
-[github/tlug/settings/installations]: https://github.com/organizations/tlug/settings/installations
-[github/tlug/settings]: https://github.com/organizations/tlug/settings/profile
-[github/apps/netlify]: https://github.com/apps/netlify
-[master repo]: https://github.com/tlug/tlug.jp
-[netlify.toml]: ../docroot/netlify.toml
-[netlify]: https://www.netlify.com/
-[nfd-domains]: https://www.netlify.com/docs/custom-domains/
-[nfd-githubperms]: https://www.netlify.com/docs/github-permissions/
-[nfd-headers]: https://www.netlify.com/docs/headers-and-basic-auth/
-[nfd-redirects]: https://www.netlify.com/docs/redirects/
-[nfd-toml]: https://www.netlify.com/docs/netlify-toml-reference/
-[nfd]: https://www.netlify.com/docs/
+[TLUG Matrix room]: https://matrix.to/#/#tlug.jp:matrix.org
+[TLUG mailing list]: https://lists.tlug.jp/
+[deployment]: ../README.md#deployment
