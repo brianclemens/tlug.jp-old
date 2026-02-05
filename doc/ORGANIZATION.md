@@ -40,15 +40,11 @@ The repository contains the following directories and files:
 - `assets/`: Hugo assets (CSS, JS)
 - `hugo.toml`: Hugo configuration
 - `convert-wiki.py`: MediaWiki to Markdown conversion script
-- `docroot/`: Legacy static files from old site
-- `wiki/`: Original MediaWiki markup source (reference only)
 
 In addition, the following will appear as part of the build process:
 - `public/`: The output directory for the compiled Hugo site
 - `resources/`: Hugo's resource cache
 - `.hugo_build.lock`: Hugo build lock file
-
-The `docroot/` contains legacy static content from the old site (primarily for reference).
 
 
 Previous Site(s)
