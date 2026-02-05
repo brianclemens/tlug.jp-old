@@ -66,6 +66,12 @@ defaultContentLanguageInSubdir = false
   description = 'Tokyo Linux Users Group - Community, meetings, and technical discussions since 1994'
   author = 'TLUG'
   
+  # Logo
+  [params.label]
+    text = 'TLUG'
+    icon = '/images/logo.png'
+    iconHeight = 35
+  
   # Show reading time
   ShowReadingTime = true
   
@@ -95,11 +101,18 @@ defaultContentLanguageInSubdir = false
 
   # Home page info
   [params.homeInfoParams]
-    Title = 'Welcome to TLUG'
+    Title = '![TLUG Logo](/images/logo.png) Welcome to TLUG'
     Content = '''
 The Tokyo Linux Users Group (TLUG) is a group of Linux users and enthusiasts in Tokyo, Japan.
 We hold monthly technical meetings and social events. Everyone is welcome!
     '''
+  
+  # Favicon
+  [params.assets]
+    favicon = '/favicon.png'
+    favicon16x16 = '/favicon.png'
+    favicon32x32 = '/favicon.png'
+    apple_touch_icon = '/images/logo.png'
 
 # Markdown configuration
 [markup]

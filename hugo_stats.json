@@ -69,7 +69,6 @@
     "classes": [
       "active",
       "anchor",
-      "breadcrumbs",
       "entry-content",
       "entry-footer",
       "entry-header",
@@ -90,7 +89,6 @@
       "page-footer",
       "page-header",
       "pagination",
-      "paginav",
       "post",
       "post-content",
       "post-entry",
@@ -104,7 +102,6 @@
       "social-icons",
       "tag-entry",
       "terms-tags",
-      "title",
       "top-link"
     ],
     "ids": [
